@@ -1,4 +1,4 @@
-hash-format = "sha256"
+hashFormat = "sha256"
 
 [[files]]
 file = ".dockerignore"
