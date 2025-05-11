@@ -1,6 +1,0 @@
-.git/
-.github/
-.gitignore
-flake.lock
-flake.nix
-root
