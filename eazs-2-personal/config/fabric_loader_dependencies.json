@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "overrides": {
+    "minecraft": {
+      "+breaks": {
+        "estrogen": "*",
+        "starlight": "*"
+      }
+    },
+    "dimdoors": {
+      "+depends": {
+        "immersive_portals": "*"
+      },
+      "+breaks": {
+        "iris": "*"
+      }
+    },
+    "axiom": {
+      "-breaks": {
+        "immersive_portals": "*"
+      }
+    },
+    "emi": {
+      "+breaks": {
+        "roughlyenoughitems": "*"
+      }
+    }
+  }
+}

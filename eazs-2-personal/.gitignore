@@ -1,0 +1,6 @@
+*-real/
+result
+*@
+S-*.vim
+/item
+*.log

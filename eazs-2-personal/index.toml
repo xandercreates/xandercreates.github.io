@@ -1,0 +1,4580 @@
+hash-format = "sha256"
+
+[[files]]
+file = ".dockerignore"
+
+[[files]]
+file = ".gitmodules"
+
+[[files]]
+file = "config/fabric_loader_dependencies.json"
+
+[[files]]
+file = "config/figura.json"
+
+[[files]]
+file = "config/immersive_portals.json"
+
+[[files]]
+file = "config/logbegone.toml"
+
+[[files]]
+file = "config/openloader/data/ArachnidPlus/data/arachnidplus/origins/arachnidplus.json"
+
+[[files]]
+file = "config/openloader/data/ArachnidPlus/data/arachnidplus/powers/carnivore2.json"
+
+[[files]]
+file = "config/openloader/data/ArachnidPlus/data/arachnidplus/powers/climbing2.json"
+
+[[files]]
+file = "config/openloader/data/ArachnidPlus/data/arachnidplus/powers/eyes.json"
+
+[[files]]
+file = "config/openloader/data/ArachnidPlus/data/arachnidplus/powers/master_of_webs2.json"
+
+[[files]]
+file = "config/openloader/data/ArachnidPlus/data/arachnidplus/powers/monster_food.json"
+
+[[files]]
+file = "config/openloader/data/ArachnidPlus/data/arachnidplus/powers/octadic.json"
+
+[[files]]
+file = "config/openloader/data/ArachnidPlus/data/arachnidplus/powers/place_webs.json"
+
+[[files]]
+file = "config/openloader/data/ArachnidPlus/data/arachnidplus/powers/steal.json"
+
+[[files]]
+file = "config/openloader/data/ArachnidPlus/data/arachnidplus/tags/items/veggie.json"
+
+[[files]]
+file = "config/openloader/data/ArachnidPlus/data/origins/origin_layers/origin.json"
+
+[[files]]
+file = "config/openloader/data/ArachnidPlus/pack.mcmeta"
+
+[[files]]
+file = "config/openloader/data/Cecaelia_Origin_v1.0/data/cecaelia/origins/cecaelia.json"
+
+[[files]]
+file = "config/openloader/data/Cecaelia_Origin_v1.0/data/cecaelia/powers/boneless.json"
+
+[[files]]
+file = "config/openloader/data/Cecaelia_Origin_v1.0/data/cecaelia/powers/ink_sac.json"
+
+[[files]]
+file = "config/openloader/data/Cecaelia_Origin_v1.0/data/cecaelia/powers/invertebrate.json"
+
+[[files]]
+file = "config/openloader/data/Cecaelia_Origin_v1.0/data/cecaelia/powers/suction_cups.json"
+
+[[files]]
+file = "config/openloader/data/Cecaelia_Origin_v1.0/data/cecaelia/powers/tentacles.json"
+
+[[files]]
+file = "config/openloader/data/Cecaelia_Origin_v1.0/data/cecaelia/powers/water_vision.json"
+
+[[files]]
+file = "config/openloader/data/Cecaelia_Origin_v1.0/data/origins/origin_layers/origin.json"
+
+[[files]]
+file = "config/openloader/data/Cecaelia_Origin_v1.0/pack.mcmeta"
+
+[[files]]
+file = "config/openloader/data/Centaur_Origin_Alt_v1.4.0_1.20.1/data/altcentaur/origins/altcentaur.json"
+
+[[files]]
+file = "config/openloader/data/Centaur_Origin_Alt_v1.4.0_1.20.1/data/altcentaur/powers/horse_kick.json"
+
+[[files]]
+file = "config/openloader/data/Centaur_Origin_Alt_v1.4.0_1.20.1/data/altcentaur/powers/imposing.json"
+
+[[files]]
+file = "config/openloader/data/Centaur_Origin_Alt_v1.4.0_1.20.1/data/altcentaur/powers/large_stance.json"
+
+[[files]]
+file = "config/openloader/data/Centaur_Origin_Alt_v1.4.0_1.20.1/data/altcentaur/powers/no_swimming.json"
+
+[[files]]
+file = "config/openloader/data/Centaur_Origin_Alt_v1.4.0_1.20.1/data/altcentaur/powers/rideable.json"
+
+[[files]]
+file = "config/openloader/data/Centaur_Origin_Alt_v1.4.0_1.20.1/data/altcentaur/powers/robust.json"
+
+[[files]]
+file = "config/openloader/data/Centaur_Origin_Alt_v1.4.0_1.20.1/data/origins/origin_layers/origin.json"
+
+[[files]]
+file = "config/openloader/data/Centaur_Origin_Alt_v1.4.0_1.20.1/pack.mcmeta"
+
+[[files]]
+file = "config/openloader/data/Centaur_Origin_v1.4.0_1.20.1/data/centaur/origins/centaur.json"
+
+[[files]]
+file = "config/openloader/data/Centaur_Origin_v1.4.0_1.20.1/data/centaur/powers/archery_specialist.json"
+
+[[files]]
+file = "config/openloader/data/Centaur_Origin_v1.4.0_1.20.1/data/centaur/powers/equine_diet.json"
+
+[[files]]
+file = "config/openloader/data/Centaur_Origin_v1.4.0_1.20.1/data/centaur/powers/horse_kick.json"
+
+[[files]]
+file = "config/openloader/data/Centaur_Origin_v1.4.0_1.20.1/data/centaur/powers/imposing.json"
+
+[[files]]
+file = "config/openloader/data/Centaur_Origin_v1.4.0_1.20.1/data/centaur/powers/large_stance.json"
+
+[[files]]
+file = "config/openloader/data/Centaur_Origin_v1.4.0_1.20.1/data/centaur/powers/melee_inaptitude.json"
+
+[[files]]
+file = "config/openloader/data/Centaur_Origin_v1.4.0_1.20.1/data/centaur/powers/prevent_eat.json"
+
+[[files]]
+file = "config/openloader/data/Centaur_Origin_v1.4.0_1.20.1/data/centaur/powers/ranged_enchanter.json"
+
+[[files]]
+file = "config/openloader/data/Centaur_Origin_v1.4.0_1.20.1/data/centaur/powers/rideable.json"
+
+[[files]]
+file = "config/openloader/data/Centaur_Origin_v1.4.0_1.20.1/data/centaur/powers/robust.json"
+
+[[files]]
+file = "config/openloader/data/Centaur_Origin_v1.4.0_1.20.1/data/centaur/tags/items/equine_diet_foods.json"
+
+[[files]]
+file = "config/openloader/data/Centaur_Origin_v1.4.0_1.20.1/data/centaur/tags/items/vanilla_edible_foods.json"
+
+[[files]]
+file = "config/openloader/data/Centaur_Origin_v1.4.0_1.20.1/data/origins/origin_layers/origin.json"
+
+[[files]]
+file = "config/openloader/data/Centaur_Origin_v1.4.0_1.20.1/pack.mcmeta"
+
+[[files]]
+file = "config/openloader/data/Cervitaur_Origin_v1.0/data/cervitaur/origins/cervitaur.json"
+
+[[files]]
+file = "config/openloader/data/Cervitaur_Origin_v1.0/data/cervitaur/powers/cervid_agility.json"
+
+[[files]]
+file = "config/openloader/data/Cervitaur_Origin_v1.0/data/cervitaur/powers/cervid_diet.json"
+
+[[files]]
+file = "config/openloader/data/Cervitaur_Origin_v1.0/data/cervitaur/powers/get_out_of_there.json"
+
+[[files]]
+file = "config/openloader/data/Cervitaur_Origin_v1.0/data/cervitaur/powers/get_out_of_there_tooltip.json"
+
+[[files]]
+file = "config/openloader/data/Cervitaur_Origin_v1.0/data/cervitaur/powers/graceful_stance.json"
+
+[[files]]
+file = "config/openloader/data/Cervitaur_Origin_v1.0/data/cervitaur/powers/intriguing_lights.json"
+
+[[files]]
+file = "config/openloader/data/Cervitaur_Origin_v1.0/data/cervitaur/powers/keen_senses.json"
+
+[[files]]
+file = "config/openloader/data/Cervitaur_Origin_v1.0/data/cervitaur/powers/light_hypnosis.json"
+
+[[files]]
+file = "config/openloader/data/Cervitaur_Origin_v1.0/data/cervitaur/powers/prevent_eat.json"
+
+[[files]]
+file = "config/openloader/data/Cervitaur_Origin_v1.0/data/cervitaur/powers/resolute.json"
+
+[[files]]
+file = "config/openloader/data/Cervitaur_Origin_v1.0/data/cervitaur/powers/victim_of_the_hunt.json"
+
+[[files]]
+file = "config/openloader/data/Cervitaur_Origin_v1.0/data/cervitaur/tags/items/cervid_diet_foods.json"
+
+[[files]]
+file = "config/openloader/data/Cervitaur_Origin_v1.0/data/cervitaur/tags/items/vanilla_edible_foods.json"
+
+[[files]]
+file = "config/openloader/data/Cervitaur_Origin_v1.0/data/cervitaur/tags/items/weapons.json"
+
+[[files]]
+file = "config/openloader/data/Cervitaur_Origin_v1.0/data/origins/origin_layers/origin.json"
+
+[[files]]
+file = "config/openloader/data/Cervitaur_Origin_v1.0/pack.mcmeta"
+
+[[files]]
+file = "config/openloader/data/Charizardtaur-Origin-2.6.1-1.20.1-1.20.2/data/charizard/origins/charizard.json"
+
+[[files]]
+file = "config/openloader/data/Charizardtaur-Origin-2.6.1-1.20.1-1.20.2/data/charizard/powers/berry_devourer.json"
+
+[[files]]
+file = "config/openloader/data/Charizardtaur-Origin-2.6.1-1.20.1-1.20.2/data/charizard/powers/charizard_aerial_vulnerability.json"
+
+[[files]]
+file = "config/openloader/data/Charizardtaur-Origin-2.6.1-1.20.1-1.20.2/data/charizard/powers/charizard_appetite.json"
+
+[[files]]
+file = "config/openloader/data/Charizardtaur-Origin-2.6.1-1.20.1-1.20.2/data/charizard/powers/charizard_bulk.json"
+
+[[files]]
+file = "config/openloader/data/Charizardtaur-Origin-2.6.1-1.20.1-1.20.2/data/charizard/powers/charizard_creative_flight.json"
+
+[[files]]
+file = "config/openloader/data/Charizardtaur-Origin-2.6.1-1.20.1-1.20.2/data/charizard/powers/charizard_fire_type.json"
+
+[[files]]
+file = "config/openloader/data/Charizardtaur-Origin-2.6.1-1.20.1-1.20.2/data/charizard/powers/charizard_flamethrower.json"
+
+[[files]]
+file = "config/openloader/data/Charizardtaur-Origin-2.6.1-1.20.1-1.20.2/data/charizard/powers/charizard_flamethrower_fuel.json"
+
+[[files]]
+file = "config/openloader/data/Charizardtaur-Origin-2.6.1-1.20.1-1.20.2/data/charizard/powers/charizard_hurricane.json"
+
+[[files]]
+file = "config/openloader/data/Charizardtaur-Origin-2.6.1-1.20.1-1.20.2/data/charizard/powers/charizard_hurricane_fuel.json"
+
+[[files]]
+file = "config/openloader/data/Charizardtaur-Origin-2.6.1-1.20.1-1.20.2/data/charizard/powers/charizard_hurricane_strong_and_weak.json"
+
+[[files]]
+file = "config/openloader/data/Charizardtaur-Origin-2.6.1-1.20.1-1.20.2/data/charizard/powers/charizard_size.json"
+
+[[files]]
+file = "config/openloader/data/Charizardtaur-Origin-2.6.1-1.20.1-1.20.2/data/charizard/powers/charizard_transport.json"
+
+[[files]]
+file = "config/openloader/data/Charizardtaur-Origin-2.6.1-1.20.1-1.20.2/data/charizard/powers/charizard_winged.json"
+
+[[files]]
+file = "config/openloader/data/Charizardtaur-Origin-2.6.1-1.20.1-1.20.2/data/charizard/powers/light.json"
+
+[[files]]
+file = "config/openloader/data/Charizardtaur-Origin-2.6.1-1.20.1-1.20.2/data/origins/origin_layers/origin.json"
+
+[[files]]
+file = "config/openloader/data/Charizardtaur-Origin-2.6.1-1.20.1-1.20.2/pack.mcmeta"
+
+[[files]]
+file = "config/openloader/data/Dexterous_Elf_1.0.1/data/dexterous_elf/origins/dexterous_elf.json"
+
+[[files]]
+file = "config/openloader/data/Dexterous_Elf_1.0.1/data/dexterous_elf/powers/backpack.json"
+
+[[files]]
+file = "config/openloader/data/Dexterous_Elf_1.0.1/data/dexterous_elf/powers/body.json"
+
+[[files]]
+file = "config/openloader/data/Dexterous_Elf_1.0.1/data/dexterous_elf/powers/cave.json"
+
+[[files]]
+file = "config/openloader/data/Dexterous_Elf_1.0.1/data/dexterous_elf/powers/dash.json"
+
+[[files]]
+file = "config/openloader/data/Dexterous_Elf_1.0.1/data/dexterous_elf/powers/diet.json"
+
+[[files]]
+file = "config/openloader/data/Dexterous_Elf_1.0.1/data/dexterous_elf/powers/hide.json"
+
+[[files]]
+file = "config/openloader/data/Dexterous_Elf_1.0.1/data/dexterous_elf/powers/incompetence.json"
+
+[[files]]
+file = "config/openloader/data/Dexterous_Elf_1.0.1/data/dexterous_elf/powers/nature.json"
+
+[[files]]
+file = "config/openloader/data/Dexterous_Elf_1.0.1/data/dexterous_elf/powers/particles.json"
+
+[[files]]
+file = "config/openloader/data/Dexterous_Elf_1.0.1/data/dexterous_elf/powers/proficiency.json"
+
+[[files]]
+file = "config/openloader/data/Dexterous_Elf_1.0.1/data/dexterous_elf/powers/pyrophobia.json"
+
+[[files]]
+file = "config/openloader/data/Dexterous_Elf_1.0.1/data/dexterous_elf/powers/senses.json"
+
+[[files]]
+file = "config/openloader/data/Dexterous_Elf_1.0.1/data/dexterous_elf/tags/items/heavy_weapons.json"
+
+[[files]]
+file = "config/openloader/data/Dexterous_Elf_1.0.1/data/dexterous_elf/tags/items/swords.json"
+
+[[files]]
+file = "config/openloader/data/Dexterous_Elf_1.0.1/data/origins/origin_layers/origin.json"
+
+[[files]]
+file = "config/openloader/data/Dexterous_Elf_1.0.1/pack.mcmeta"
+
+[[files]]
+file = "config/openloader/data/Furrettaur_Origin_v1.1/data/furret/origins/furrettaur.json"
+
+[[files]]
+file = "config/openloader/data/Furrettaur_Origin_v1.1/data/furret/powers/defense_curl.json"
+
+[[files]]
+file = "config/openloader/data/Furrettaur_Origin_v1.1/data/furret/powers/furret_agility.json"
+
+[[files]]
+file = "config/openloader/data/Furrettaur_Origin_v1.1/data/furret/powers/fury_swipes.json"
+
+[[files]]
+file = "config/openloader/data/Furrettaur_Origin_v1.1/data/furret/powers/noodley_body.json"
+
+[[files]]
+file = "config/openloader/data/Furrettaur_Origin_v1.1/data/furret/powers/quick_paws.json"
+
+[[files]]
+file = "config/openloader/data/Furrettaur_Origin_v1.1/data/furret/powers/rapid_metabolism.json"
+
+[[files]]
+file = "config/openloader/data/Furrettaur_Origin_v1.1/data/furret/powers/run_away.json"
+
+[[files]]
+file = "config/openloader/data/Furrettaur_Origin_v1.1/data/furret/powers/short_legs.json"
+
+[[files]]
+file = "config/openloader/data/Furrettaur_Origin_v1.1/data/furret/powers/unequipped_frame.json"
+
+[[files]]
+file = "config/openloader/data/Furrettaur_Origin_v1.1/data/origins/origin_layers/origin.json"
+
+[[files]]
+file = "config/openloader/data/Furrettaur_Origin_v1.1/pack.mcmeta"
+
+[[files]]
+file = "config/openloader/data/GhastOrigin/data/ghastorigin/origins/ghast.json"
+
+[[files]]
+file = "config/openloader/data/GhastOrigin/data/ghastorigin/powers/throw_fire_charge.json"
+
+[[files]]
+file = "config/openloader/data/GhastOrigin/data/origins/origin_layers/origin.json"
+
+[[files]]
+file = "config/openloader/data/GhastOrigin/pack.mcmeta"
+
+[[files]]
+file = "config/openloader/data/GhastOrigin/pack.png"
+
+[[files]]
+file = "config/openloader/data/Giraffetaur_Origin_v1.0/data/giraffetaur/origins/giraffetaur.json"
+
+[[files]]
+file = "config/openloader/data/Giraffetaur_Origin_v1.0/data/giraffetaur/powers/chiropractors_nightmare.json"
+
+[[files]]
+file = "config/openloader/data/Giraffetaur_Origin_v1.0/data/giraffetaur/powers/disclaimer.json"
+
+[[files]]
+file = "config/openloader/data/Giraffetaur_Origin_v1.0/data/giraffetaur/powers/folivore.json"
+
+[[files]]
+file = "config/openloader/data/Giraffetaur_Origin_v1.0/data/giraffetaur/powers/folivore_generics.json"
+
+[[files]]
+file = "config/openloader/data/Giraffetaur_Origin_v1.0/data/giraffetaur/powers/folivore_tooltips.json"
+
+[[files]]
+file = "config/openloader/data/Giraffetaur_Origin_v1.0/data/giraffetaur/powers/giraffes_hide.json"
+
+[[files]]
+file = "config/openloader/data/Giraffetaur_Origin_v1.0/data/giraffetaur/powers/giraffes_vitality.json"
+
+[[files]]
+file = "config/openloader/data/Giraffetaur_Origin_v1.0/data/giraffetaur/powers/lanky_legs.json"
+
+[[files]]
+file = "config/openloader/data/Giraffetaur_Origin_v1.0/data/giraffetaur/powers/prevent_eat.json"
+
+[[files]]
+file = "config/openloader/data/Giraffetaur_Origin_v1.0/data/giraffetaur/powers/savanna_acclimation.json"
+
+[[files]]
+file = "config/openloader/data/Giraffetaur_Origin_v1.0/data/giraffetaur/powers/silk_touch_leaves.json"
+
+[[files]]
+file = "config/openloader/data/Giraffetaur_Origin_v1.0/data/origins/origin_layers/origin.json"
+
+[[files]]
+file = "config/openloader/data/Giraffetaur_Origin_v1.0/pack.mcmeta"
+
+[[files]]
+file = "config/openloader/data/Ice Statue 1.0.0/data/ice_statue/functions/ice.mcfunction"
+
+[[files]]
+file = "config/openloader/data/Ice Statue 1.0.0/data/ice_statue/origins/statue.json"
+
+[[files]]
+file = "config/openloader/data/Ice Statue 1.0.0/data/ice_statue/powers/break.json"
+
+[[files]]
+file = "config/openloader/data/Ice Statue 1.0.0/data/ice_statue/powers/desc1.json"
+
+[[files]]
+file = "config/openloader/data/Ice Statue 1.0.0/data/ice_statue/powers/desc2.json"
+
+[[files]]
+file = "config/openloader/data/Ice Statue 1.0.0/data/ice_statue/powers/desc3.json"
+
+[[files]]
+file = "config/openloader/data/Ice Statue 1.0.0/data/ice_statue/powers/desc4.json"
+
+[[files]]
+file = "config/openloader/data/Ice Statue 1.0.0/data/ice_statue/powers/frosty.json"
+
+[[files]]
+file = "config/openloader/data/Ice Statue 1.0.0/data/ice_statue/powers/frozen.json"
+
+[[files]]
+file = "config/openloader/data/Ice Statue 1.0.0/data/ice_statue/powers/shader.json"
+
+[[files]]
+file = "config/openloader/data/Ice Statue 1.0.0/data/origins/origin_layers/origin.json"
+
+[[files]]
+file = "config/openloader/data/Ice Statue 1.0.0/pack.mcmeta"
+
+[[files]]
+file = "config/openloader/data/Lamia/data/lamia/origins/lamia.json"
+
+[[files]]
+file = "config/openloader/data/Lamia/data/lamia/powers/fangs.json"
+
+[[files]]
+file = "config/openloader/data/Lamia/data/lamia/powers/lamia_anti_jump.json"
+
+[[files]]
+file = "config/openloader/data/Lamia/data/lamia/powers/lamia_coiling.json"
+
+[[files]]
+file = "config/openloader/data/Lamia/data/lamia/powers/lamia_hesitation.json"
+
+[[files]]
+file = "config/openloader/data/Lamia/data/lamia/powers/lamia_prevent_coil_damaging.json"
+
+[[files]]
+file = "config/openloader/data/Lamia/data/lamia/powers/lamia_slithering_serpent.json"
+
+[[files]]
+file = "config/openloader/data/Lamia/data/lamia/powers/poison_shot.json"
+
+[[files]]
+file = "config/openloader/data/Lamia/data/lamia/powers/scale_armor.json"
+
+[[files]]
+file = "config/openloader/data/Lamia/data/lamia/tags/entity_types/lamia_coilable.json"
+
+[[files]]
+file = "config/openloader/data/Lamia/data/lamia/tags/entity_types/lamia_hesitant.json"
+
+[[files]]
+file = "config/openloader/data/Lamia/data/origins/origin_layers/origin.json"
+
+[[files]]
+file = "config/openloader/data/Lamia/pack.mcmeta"
+
+[[files]]
+file = "config/openloader/data/Laprastaur_Origin_v4.5/data/lapras/origins/lapras.json"
+
+[[files]]
+file = "config/openloader/data/Laprastaur_Origin_v4.5/data/lapras/powers/berry_devourer.json"
+
+[[files]]
+file = "config/openloader/data/Laprastaur_Origin_v4.5/data/lapras/powers/lapras_appetite.json"
+
+[[files]]
+file = "config/openloader/data/Laprastaur_Origin_v4.5/data/lapras/powers/lapras_bulk.json"
+
+[[files]]
+file = "config/openloader/data/Laprastaur_Origin_v4.5/data/lapras/powers/lapras_depth_strider_one.json"
+
+[[files]]
+file = "config/openloader/data/Laprastaur_Origin_v4.5/data/lapras/powers/lapras_depth_strider_three.json"
+
+[[files]]
+file = "config/openloader/data/Laprastaur_Origin_v4.5/data/lapras/powers/lapras_depth_strider_two.json"
+
+[[files]]
+file = "config/openloader/data/Laprastaur_Origin_v4.5/data/lapras/powers/lapras_dismount.json"
+
+[[files]]
+file = "config/openloader/data/Laprastaur_Origin_v4.5/data/lapras/powers/lapras_flippers.json"
+
+[[files]]
+file = "config/openloader/data/Laprastaur_Origin_v4.5/data/lapras/powers/lapras_hydration.json"
+
+[[files]]
+file = "config/openloader/data/Laprastaur_Origin_v4.5/data/lapras/powers/lapras_hydration_bottle.json"
+
+[[files]]
+file = "config/openloader/data/Laprastaur_Origin_v4.5/data/lapras/powers/lapras_hydration_effects.json"
+
+[[files]]
+file = "config/openloader/data/Laprastaur_Origin_v4.5/data/lapras/powers/lapras_ice_type.json"
+
+[[files]]
+file = "config/openloader/data/Laprastaur_Origin_v4.5/data/lapras/powers/lapras_invincibility.json"
+
+[[files]]
+file = "config/openloader/data/Laprastaur_Origin_v4.5/data/lapras/powers/lapras_jumpspeed.json"
+
+[[files]]
+file = "config/openloader/data/Laprastaur_Origin_v4.5/data/lapras/powers/lapras_no_elytra.json"
+
+[[files]]
+file = "config/openloader/data/Laprastaur_Origin_v4.5/data/lapras/powers/lapras_no_knockback.json"
+
+[[files]]
+file = "config/openloader/data/Laprastaur_Origin_v4.5/data/lapras/powers/lapras_rain_speed.json"
+
+[[files]]
+file = "config/openloader/data/Laprastaur_Origin_v4.5/data/lapras/powers/lapras_rehydrate.json"
+
+[[files]]
+file = "config/openloader/data/Laprastaur_Origin_v4.5/data/lapras/powers/lapras_remove_hydration.json"
+
+[[files]]
+file = "config/openloader/data/Laprastaur_Origin_v4.5/data/lapras/powers/lapras_remove_hydration_cold.json"
+
+[[files]]
+file = "config/openloader/data/Laprastaur_Origin_v4.5/data/lapras/powers/lapras_shell.json"
+
+[[files]]
+file = "config/openloader/data/Laprastaur_Origin_v4.5/data/lapras/powers/lapras_shell_toughness.json"
+
+[[files]]
+file = "config/openloader/data/Laprastaur_Origin_v4.5/data/lapras/powers/lapras_size.json"
+
+[[files]]
+file = "config/openloader/data/Laprastaur_Origin_v4.5/data/lapras/powers/lapras_swim.json"
+
+[[files]]
+file = "config/openloader/data/Laprastaur_Origin_v4.5/data/lapras/powers/lapras_transport.json"
+
+[[files]]
+file = "config/openloader/data/Laprastaur_Origin_v4.5/data/lapras/powers/lapras_water_absorb.json"
+
+[[files]]
+file = "config/openloader/data/Laprastaur_Origin_v4.5/data/lapras/powers/lapras_water_type.json"
+
+[[files]]
+file = "config/openloader/data/Laprastaur_Origin_v4.5/data/lapras/powers/lapras_water_type_cold.json"
+
+[[files]]
+file = "config/openloader/data/Laprastaur_Origin_v4.5/data/lapras/powers/lapras_water_type_cold_strong_against.json"
+
+[[files]]
+file = "config/openloader/data/Laprastaur_Origin_v4.5/data/lapras/powers/lapras_water_type_cold_weak_against.json"
+
+[[files]]
+file = "config/openloader/data/Laprastaur_Origin_v4.5/data/lapras/powers/lapras_water_type_strong_against.json"
+
+[[files]]
+file = "config/openloader/data/Laprastaur_Origin_v4.5/data/lapras/powers/lapras_water_type_weak_against.json"
+
+[[files]]
+file = "config/openloader/data/Laprastaur_Origin_v4.5/data/lapras/powers/pokemon_of_the_seas.json"
+
+[[files]]
+file = "config/openloader/data/Laprastaur_Origin_v4.5/data/lapras/powers/pokemon_of_the_seas_turtle_helmet.json"
+
+[[files]]
+file = "config/openloader/data/Laprastaur_Origin_v4.5/data/lapras/tags/entity_types/weak_to_lapras_ice_beam.json"
+
+[[files]]
+file = "config/openloader/data/Laprastaur_Origin_v4.5/data/lapras/tags/entity_types/weak_to_lapras_water_gun.json"
+
+[[files]]
+file = "config/openloader/data/Laprastaur_Origin_v4.5/data/origins/origin_layers/origin.json"
+
+[[files]]
+file = "config/openloader/data/Laprastaur_Origin_v4.5/pack.mcmeta"
+
+[[files]]
+file = "config/openloader/data/Mechanical Golem/data/mechbot/origins/golem.json"
+
+[[files]]
+file = "config/openloader/data/Mechanical Golem/data/mechbot/powers/artificial.json"
+
+[[files]]
+file = "config/openloader/data/Mechanical Golem/data/mechbot/powers/burnout.json"
+
+[[files]]
+file = "config/openloader/data/Mechanical Golem/data/mechbot/powers/gearup.json"
+
+[[files]]
+file = "config/openloader/data/Mechanical Golem/data/mechbot/powers/heat.json"
+
+[[files]]
+file = "config/openloader/data/Mechanical Golem/data/mechbot/powers/metalshell.json"
+
+[[files]]
+file = "config/openloader/data/Mechanical Golem/data/mechbot/powers/shellbonus.json"
+
+[[files]]
+file = "config/openloader/data/Mechanical Golem/data/mechbot/powers/sinkingin.json"
+
+[[files]]
+file = "config/openloader/data/Mechanical Golem/data/mechbot/powers/upgrade.json"
+
+[[files]]
+file = "config/openloader/data/Mechanical Golem/data/origins/origin_layers/origin.json"
+
+[[files]]
+file = "config/openloader/data/Mechanical Golem/pack.mcmeta"
+
+[[files]]
+file = "config/openloader/data/Mechanical Golem/pack.png"
+
+[[files]]
+file = "config/openloader/data/Mermaid_Origin_2.0.1/Makefile"
+
+[[files]]
+file = "config/openloader/data/Mermaid_Origin_2.0.1/data/mermaid_origin/origins/mermaid.json"
+
+[[files]]
+file = "config/openloader/data/Mermaid_Origin_2.0.1/data/mermaid_origin/powers/bait_diet.json"
+
+[[files]]
+file = "config/openloader/data/Mermaid_Origin_2.0.1/data/mermaid_origin/powers/bettertrades.json"
+
+[[files]]
+file = "config/openloader/data/Mermaid_Origin_2.0.1/data/mermaid_origin/powers/breatheunderwater.json"
+
+[[files]]
+file = "config/openloader/data/Mermaid_Origin_2.0.1/data/mermaid_origin/powers/fish_diet.json"
+
+[[files]]
+file = "config/openloader/data/Mermaid_Origin_2.0.1/data/mermaid_origin/powers/flammable.json"
+
+[[files]]
+file = "config/openloader/data/Mermaid_Origin_2.0.1/data/mermaid_origin/powers/hydration.json"
+
+[[files]]
+file = "config/openloader/data/Mermaid_Origin_2.0.1/data/mermaid_origin/powers/hydrationgain.json"
+
+[[files]]
+file = "config/openloader/data/Mermaid_Origin_2.0.1/data/mermaid_origin/powers/nolegs.json"
+
+[[files]]
+file = "config/openloader/data/Mermaid_Origin_2.0.1/data/mermaid_origin/powers/slowonland.json"
+
+[[files]]
+file = "config/openloader/data/Mermaid_Origin_2.0.1/data/mermaid_origin/powers/song.json"
+
+[[files]]
+file = "config/openloader/data/Mermaid_Origin_2.0.1/data/mermaid_origin/tags/items/bait.json"
+
+[[files]]
+file = "config/openloader/data/Mermaid_Origin_2.0.1/data/mermaid_origin/tags/items/fish.json"
+
+[[files]]
+file = "config/openloader/data/Mermaid_Origin_2.0.1/data/origins/origin_layers/origin.json"
+
+[[files]]
+file = "config/openloader/data/Mermaid_Origin_2.0.1/gen_bait.py"
+
+[[files]]
+file = "config/openloader/data/Mermaid_Origin_2.0.1/pack.mcmeta"
+
+[[files]]
+file = "config/openloader/data/More CC Tweaks/data/computercraft/recipes/computer_advanced.json"
+
+[[files]]
+file = "config/openloader/data/More CC Tweaks/data/computercraft/recipes/computer_advanced_upgrade.json"
+
+[[files]]
+file = "config/openloader/data/More CC Tweaks/data/computercraft/recipes/computer_normal.json"
+
+[[files]]
+file = "config/openloader/data/More CC Tweaks/data/computercraft/recipes/disk_1.json"
+
+[[files]]
+file = "config/openloader/data/More CC Tweaks/data/computercraft/recipes/disk_10.json"
+
+[[files]]
+file = "config/openloader/data/More CC Tweaks/data/computercraft/recipes/disk_11.json"
+
+[[files]]
+file = "config/openloader/data/More CC Tweaks/data/computercraft/recipes/disk_12.json"
+
+[[files]]
+file = "config/openloader/data/More CC Tweaks/data/computercraft/recipes/disk_13.json"
+
+[[files]]
+file = "config/openloader/data/More CC Tweaks/data/computercraft/recipes/disk_14.json"
+
+[[files]]
+file = "config/openloader/data/More CC Tweaks/data/computercraft/recipes/disk_15.json"
+
+[[files]]
+file = "config/openloader/data/More CC Tweaks/data/computercraft/recipes/disk_16.json"
+
+[[files]]
+file = "config/openloader/data/More CC Tweaks/data/computercraft/recipes/disk_2.json"
+
+[[files]]
+file = "config/openloader/data/More CC Tweaks/data/computercraft/recipes/disk_3.json"
+
+[[files]]
+file = "config/openloader/data/More CC Tweaks/data/computercraft/recipes/disk_4.json"
+
+[[files]]
+file = "config/openloader/data/More CC Tweaks/data/computercraft/recipes/disk_5.json"
+
+[[files]]
+file = "config/openloader/data/More CC Tweaks/data/computercraft/recipes/disk_6.json"
+
+[[files]]
+file = "config/openloader/data/More CC Tweaks/data/computercraft/recipes/disk_7.json"
+
+[[files]]
+file = "config/openloader/data/More CC Tweaks/data/computercraft/recipes/disk_8.json"
+
+[[files]]
+file = "config/openloader/data/More CC Tweaks/data/computercraft/recipes/disk_9.json"
+
+[[files]]
+file = "config/openloader/data/More CC Tweaks/data/computercraft/recipes/disk_drive.json"
+
+[[files]]
+file = "config/openloader/data/More CC Tweaks/data/computercraft/recipes/pocket_computer_advanced.json"
+
+[[files]]
+file = "config/openloader/data/More CC Tweaks/data/computercraft/recipes/pocket_computer_advanced_upgrade.json"
+
+[[files]]
+file = "config/openloader/data/More CC Tweaks/data/computercraft/recipes/pocket_computer_normal.json"
+
+[[files]]
+file = "config/openloader/data/More CC Tweaks/data/computercraft/recipes/wired_modem.json"
+
+[[files]]
+file = "config/openloader/data/More CC Tweaks/data/computercraft/recipes/wireless_modem_advanced.json"
+
+[[files]]
+file = "config/openloader/data/More CC Tweaks/data/computercraft/recipes/wireless_modem_normal.json"
+
+[[files]]
+file = "config/openloader/data/More CC Tweaks/data/createaddition/recipes/mixing/bioethanol.json"
+
+[[files]]
+file = "config/openloader/data/More CC Tweaks/pack.mcmeta"
+
+[[files]]
+file = "config/openloader/data/Neoforged_Fox_V2_1.0.0/data/neoforged_fox/origins/neoforged_fox.json"
+
+[[files]]
+file = "config/openloader/data/Neoforged_Fox_V2_1.0.0/data/neoforged_fox/powers/burst.json"
+
+[[files]]
+file = "config/openloader/data/Neoforged_Fox_V2_1.0.0/data/neoforged_fox/powers/fireproof.json"
+
+[[files]]
+file = "config/openloader/data/Neoforged_Fox_V2_1.0.0/data/neoforged_fox/powers/frail.json"
+
+[[files]]
+file = "config/openloader/data/Neoforged_Fox_V2_1.0.0/data/neoforged_fox/powers/lightweight.json"
+
+[[files]]
+file = "config/openloader/data/Neoforged_Fox_V2_1.0.0/data/neoforged_fox/powers/natural_swimmer.json"
+
+[[files]]
+file = "config/openloader/data/Neoforged_Fox_V2_1.0.0/data/neoforged_fox/powers/short.json"
+
+[[files]]
+file = "config/openloader/data/Neoforged_Fox_V2_1.0.0/data/neoforged_fox/powers/size_toggle.json"
+
+[[files]]
+file = "config/openloader/data/Neoforged_Fox_V2_1.0.0/data/neoforged_fox/powers/slender.json"
+
+[[files]]
+file = "config/openloader/data/Neoforged_Fox_V2_1.0.0/data/neoforged_fox/powers/sneaky.json"
+
+[[files]]
+file = "config/openloader/data/Neoforged_Fox_V2_1.0.0/data/neoforged_fox/powers/strong_eyes.json"
+
+[[files]]
+file = "config/openloader/data/Neoforged_Fox_V2_1.0.0/data/origins/origin_layers/origin.json"
+
+[[files]]
+file = "config/openloader/data/Neoforged_Fox_V2_1.0.0/pack.mcmeta"
+
+[[files]]
+file = "config/openloader/data/Serperiortaur_Origin_v1.0/data/origins/origin_layers/origin.json"
+
+[[files]]
+file = "config/openloader/data/Serperiortaur_Origin_v1.0/data/serperior/origins/serperior.json"
+
+[[files]]
+file = "config/openloader/data/Serperiortaur_Origin_v1.0/data/serperior/powers/berry_devourer.json"
+
+[[files]]
+file = "config/openloader/data/Serperiortaur_Origin_v1.0/data/serperior/powers/serperior_anti_jump.json"
+
+[[files]]
+file = "config/openloader/data/Serperiortaur_Origin_v1.0/data/serperior/powers/serperior_coiling.json"
+
+[[files]]
+file = "config/openloader/data/Serperiortaur_Origin_v1.0/data/serperior/powers/serperior_grass_type.json"
+
+[[files]]
+file = "config/openloader/data/Serperiortaur_Origin_v1.0/data/serperior/powers/serperior_hesitation.json"
+
+[[files]]
+file = "config/openloader/data/Serperiortaur_Origin_v1.0/data/serperior/powers/serperior_leaf_storm.json"
+
+[[files]]
+file = "config/openloader/data/Serperiortaur_Origin_v1.0/data/serperior/powers/serperior_leaf_storm_fuel.json"
+
+[[files]]
+file = "config/openloader/data/Serperiortaur_Origin_v1.0/data/serperior/powers/serperior_leaf_storm_strong_and_weak.json"
+
+[[files]]
+file = "config/openloader/data/Serperiortaur_Origin_v1.0/data/serperior/powers/serperior_overgrow.json"
+
+[[files]]
+file = "config/openloader/data/Serperiortaur_Origin_v1.0/data/serperior/powers/serperior_photosynthesis.json"
+
+[[files]]
+file = "config/openloader/data/Serperiortaur_Origin_v1.0/data/serperior/powers/serperior_prevent_coil_damaging.json"
+
+[[files]]
+file = "config/openloader/data/Serperiortaur_Origin_v1.0/data/serperior/powers/serperior_slithering_serpent.json"
+
+[[files]]
+file = "config/openloader/data/Serperiortaur_Origin_v1.0/data/serperior/tags/entity_types/serperior_coilable.json"
+
+[[files]]
+file = "config/openloader/data/Serperiortaur_Origin_v1.0/data/serperior/tags/entity_types/serperior_hesitant.json"
+
+[[files]]
+file = "config/openloader/data/Serperiortaur_Origin_v1.0/pack.mcmeta"
+
+[[files]]
+file = "config/openloader/data/Slimetaur_Origin_Release_v1.0/data/origins/origin_layers/origin.json"
+
+[[files]]
+file = "config/openloader/data/Slimetaur_Origin_Release_v1.0/data/slime_taur/origins/slime_taur.json"
+
+[[files]]
+file = "config/openloader/data/Slimetaur_Origin_Release_v1.0/data/slime_taur/powers/bouncy.json"
+
+[[files]]
+file = "config/openloader/data/Slimetaur_Origin_Release_v1.0/data/slime_taur/powers/buoyant.json"
+
+[[files]]
+file = "config/openloader/data/Slimetaur_Origin_Release_v1.0/data/slime_taur/powers/cold_sensitive.json"
+
+[[files]]
+file = "config/openloader/data/Slimetaur_Origin_Release_v1.0/data/slime_taur/powers/legless.json"
+
+[[files]]
+file = "config/openloader/data/Slimetaur_Origin_Release_v1.0/data/slime_taur/powers/moisture.json"
+
+[[files]]
+file = "config/openloader/data/Slimetaur_Origin_Release_v1.0/data/slime_taur/powers/moisture_changing.json"
+
+[[files]]
+file = "config/openloader/data/Slimetaur_Origin_Release_v1.0/data/slime_taur/powers/moisture_food.json"
+
+[[files]]
+file = "config/openloader/data/Slimetaur_Origin_Release_v1.0/data/slime_taur/powers/one_in_the_same.json"
+
+[[files]]
+file = "config/openloader/data/Slimetaur_Origin_Release_v1.0/data/slime_taur/powers/slimey.json"
+
+[[files]]
+file = "config/openloader/data/Slimetaur_Origin_Release_v1.0/data/slime_taur/powers/varied_sizing.json"
+
+[[files]]
+file = "config/openloader/data/Slimetaur_Origin_Release_v1.0/data/slime_taur/tags/blocks/slippery_default.json"
+
+[[files]]
+file = "config/openloader/data/Slimetaur_Origin_Release_v1.0/data/slime_taur/tags/items/moisture_food_big.json"
+
+[[files]]
+file = "config/openloader/data/Slimetaur_Origin_Release_v1.0/data/slime_taur/tags/items/moisture_food_med.json"
+
+[[files]]
+file = "config/openloader/data/Slimetaur_Origin_Release_v1.0/data/slime_taur/tags/items/moisture_food_small.json"
+
+[[files]]
+file = "config/openloader/data/Slimetaur_Origin_Release_v1.0/pack.mcmeta"
+
+[[files]]
+file = "config/openloader/data/Wailord-Tongue_Origin_v1.0/data/origins/origin_layers/origin.json"
+
+[[files]]
+file = "config/openloader/data/Wailord-Tongue_Origin_v1.0/data/wailord_tongue/origins/wailordtaur.json"
+
+[[files]]
+file = "config/openloader/data/Wailord-Tongue_Origin_v1.0/data/wailord_tongue/powers/colossal_diet.json"
+
+[[files]]
+file = "config/openloader/data/Wailord-Tongue_Origin_v1.0/data/wailord_tongue/powers/fish_only.json"
+
+[[files]]
+file = "config/openloader/data/Wailord-Tongue_Origin_v1.0/data/wailord_tongue/powers/gargantuan_lungs.json"
+
+[[files]]
+file = "config/openloader/data/Wailord-Tongue_Origin_v1.0/data/wailord_tongue/powers/natural_habitat.json"
+
+[[files]]
+file = "config/openloader/data/Wailord-Tongue_Origin_v1.0/data/wailord_tongue/powers/no_elytra.json"
+
+[[files]]
+file = "config/openloader/data/Wailord-Tongue_Origin_v1.0/data/wailord_tongue/powers/no_mounting.json"
+
+[[files]]
+file = "config/openloader/data/Wailord-Tongue_Origin_v1.0/data/wailord_tongue/powers/piscivore.json"
+
+[[files]]
+file = "config/openloader/data/Wailord-Tongue_Origin_v1.0/data/wailord_tongue/powers/rain_dance.json"
+
+[[files]]
+file = "config/openloader/data/Wailord-Tongue_Origin_v1.0/data/wailord_tongue/powers/soak.json"
+
+[[files]]
+file = "config/openloader/data/Wailord-Tongue_Origin_v1.0/data/wailord_tongue/powers/soaked.json"
+
+[[files]]
+file = "config/openloader/data/Wailord-Tongue_Origin_v1.0/data/wailord_tongue/powers/superweighted.json"
+
+[[files]]
+file = "config/openloader/data/Wailord-Tongue_Origin_v1.0/data/wailord_tongue/powers/thick_blubber.json"
+
+[[files]]
+file = "config/openloader/data/Wailord-Tongue_Origin_v1.0/data/wailord_tongue/powers/wailord_fins.json"
+
+[[files]]
+file = "config/openloader/data/Wailord-Tongue_Origin_v1.0/data/wailord_tongue/powers/wailord_mass.json"
+
+[[files]]
+file = "config/openloader/data/Wailord-Tongue_Origin_v1.0/pack.mcmeta"
+
+[[files]]
+file = "config/openloader/data/chestling/data/origins/origin_layers/origin.json"
+
+[[files]]
+file = "config/openloader/data/chestling/data/pin/origins/chest.json"
+
+[[files]]
+file = "config/openloader/data/chestling/data/pin/powers/bodystore.json"
+
+[[files]]
+file = "config/openloader/data/chestling/data/pin/powers/food.json"
+
+[[files]]
+file = "config/openloader/data/chestling/data/pin/powers/oak.json"
+
+[[files]]
+file = "config/openloader/data/chestling/data/pin/structures/debugblocks.nbt"
+
+[[files]]
+file = "config/openloader/data/chestling/pack.mcmeta"
+
+[[files]]
+file = "config/openloader/data/foxplush/Catalyst SMP SEASON 5 (1).zip"
+
+[[files]]
+file = "config/openloader/data/foxplush/data/origins/origin_layers/origin.json"
+
+[[files]]
+file = "config/openloader/data/foxplush/data/pin/functions/size.mcfunction"
+
+[[files]]
+file = "config/openloader/data/foxplush/data/pin/origins/fox_plush.json"
+
+[[files]]
+file = "config/openloader/data/foxplush/data/pin/powers/death.json"
+
+[[files]]
+file = "config/openloader/data/foxplush/data/pin/powers/featherweight.json"
+
+[[files]]
+file = "config/openloader/data/foxplush/data/pin/powers/food.json"
+
+[[files]]
+file = "config/openloader/data/foxplush/data/pin/powers/hike.json"
+
+[[files]]
+file = "config/openloader/data/foxplush/data/pin/powers/pounce.json"
+
+[[files]]
+file = "config/openloader/data/foxplush/data/pin/powers/shelfsize.json"
+
+[[files]]
+file = "config/openloader/data/foxplush/data/pin/powers/stolen_life.json"
+
+[[files]]
+file = "config/openloader/data/foxplush/data/pin/powers/sugar.json"
+
+[[files]]
+file = "config/openloader/data/foxplush/index.png"
+
+[[files]]
+file = "config/openloader/data/foxplush/pack.mcmeta"
+
+[[files]]
+file = "config/openloader/data/gummy-gorgon-origin/CREDITS.txt"
+
+[[files]]
+file = "config/openloader/data/gummy-gorgon-origin/data/gum/origins/stage0.json"
+
+[[files]]
+file = "config/openloader/data/gummy-gorgon-origin/data/gum/origins/stage1.json"
+
+[[files]]
+file = "config/openloader/data/gummy-gorgon-origin/data/gum/origins/stage2.json"
+
+[[files]]
+file = "config/openloader/data/gummy-gorgon-origin/data/gum/origins/stage3.json"
+
+[[files]]
+file = "config/openloader/data/gummy-gorgon-origin/data/gum/origins/stage4.json"
+
+[[files]]
+file = "config/openloader/data/gummy-gorgon-origin/data/gum/powers/atrophied.json"
+
+[[files]]
+file = "config/openloader/data/gummy-gorgon-origin/data/gum/powers/edible.json"
+
+[[files]]
+file = "config/openloader/data/gummy-gorgon-origin/data/gum/powers/malleable_body.json"
+
+[[files]]
+file = "config/openloader/data/gummy-gorgon-origin/data/gum/powers/moisture.json"
+
+[[files]]
+file = "config/openloader/data/gummy-gorgon-origin/data/gum/powers/moisture_changing.json"
+
+[[files]]
+file = "config/openloader/data/gummy-gorgon-origin/data/gum/powers/moisture_food.json"
+
+[[files]]
+file = "config/openloader/data/gummy-gorgon-origin/data/gum/powers/no_muscles_boots.json"
+
+[[files]]
+file = "config/openloader/data/gummy-gorgon-origin/data/gum/powers/no_muscles_chestplate.json"
+
+[[files]]
+file = "config/openloader/data/gummy-gorgon-origin/data/gum/powers/no_muscles_helmet.json"
+
+[[files]]
+file = "config/openloader/data/gummy-gorgon-origin/data/gum/powers/no_muscles_leggings.json"
+
+[[files]]
+file = "config/openloader/data/gummy-gorgon-origin/data/gum/powers/no_muscles_main.json"
+
+[[files]]
+file = "config/openloader/data/gummy-gorgon-origin/data/gum/powers/no_muscles_off.json"
+
+[[files]]
+file = "config/openloader/data/gummy-gorgon-origin/data/gum/powers/shrinking1.json"
+
+[[files]]
+file = "config/openloader/data/gummy-gorgon-origin/data/gum/powers/shrinking2.json"
+
+[[files]]
+file = "config/openloader/data/gummy-gorgon-origin/data/gum/powers/shrinking3.json"
+
+[[files]]
+file = "config/openloader/data/gummy-gorgon-origin/data/gum/powers/soft_body.json"
+
+[[files]]
+file = "config/openloader/data/gummy-gorgon-origin/data/gum/powers/squishy_feet.json"
+
+[[files]]
+file = "config/openloader/data/gummy-gorgon-origin/data/gum/powers/stage1trigger.json"
+
+[[files]]
+file = "config/openloader/data/gummy-gorgon-origin/data/gum/powers/stage2trigger.json"
+
+[[files]]
+file = "config/openloader/data/gummy-gorgon-origin/data/gum/powers/stage3trigger.json"
+
+[[files]]
+file = "config/openloader/data/gummy-gorgon-origin/data/gum/powers/sticky_body.json"
+
+[[files]]
+file = "config/openloader/data/gummy-gorgon-origin/data/gum/powers/varied_sizing.json"
+
+[[files]]
+file = "config/openloader/data/gummy-gorgon-origin/data/gum/powers/varied_sizing2.json"
+
+[[files]]
+file = "config/openloader/data/gummy-gorgon-origin/data/gum/powers/wormify.json"
+
+[[files]]
+file = "config/openloader/data/gummy-gorgon-origin/data/gum/tags/blocks/slippery_default.json"
+
+[[files]]
+file = "config/openloader/data/gummy-gorgon-origin/data/gum/tags/items/moisture_food_big.json"
+
+[[files]]
+file = "config/openloader/data/gummy-gorgon-origin/data/gum/tags/items/moisture_food_med.json"
+
+[[files]]
+file = "config/openloader/data/gummy-gorgon-origin/data/gum/tags/items/moisture_food_small.json"
+
+[[files]]
+file = "config/openloader/data/gummy-gorgon-origin/data/gummy/origins/gorgon.json"
+
+[[files]]
+file = "config/openloader/data/gummy-gorgon-origin/data/gummy/powers/delicate_snakes.json"
+
+[[files]]
+file = "config/openloader/data/gummy-gorgon-origin/data/gummy/powers/diet.json"
+
+[[files]]
+file = "config/openloader/data/gummy-gorgon-origin/data/gummy/powers/eatingyum.json"
+
+[[files]]
+file = "config/openloader/data/gummy-gorgon-origin/data/gummy/powers/effect_immune.json"
+
+[[files]]
+file = "config/openloader/data/gummy-gorgon-origin/data/gummy/powers/gummy_sight.json"
+
+[[files]]
+file = "config/openloader/data/gummy-gorgon-origin/data/gummy/powers/hard_scales.json"
+
+[[files]]
+file = "config/openloader/data/gummy-gorgon-origin/data/gummy/powers/magic_guard.json"
+
+[[files]]
+file = "config/openloader/data/gummy-gorgon-origin/data/gummy/powers/melted_hair.json"
+
+[[files]]
+file = "config/openloader/data/gummy-gorgon-origin/data/gummy/powers/more_mortal.json"
+
+[[files]]
+file = "config/openloader/data/gummy-gorgon-origin/data/gummy/powers/snake_eyes.json"
+
+[[files]]
+file = "config/openloader/data/gummy-gorgon-origin/data/gummy/powers/sticky_slash.json"
+
+[[files]]
+file = "config/openloader/data/gummy-gorgon-origin/data/gummy/powers/swamp_spawn.json"
+
+[[files]]
+file = "config/openloader/data/gummy-gorgon-origin/data/origins/origin_layers/gummyfication.json"
+
+[[files]]
+file = "config/openloader/data/gummy-gorgon-origin/data/origins/origin_layers/origin.json"
+
+[[files]]
+file = "config/openloader/data/gummy-gorgon-origin/pack.mcmeta"
+
+[[files]]
+file = "config/openloader/data/mobsorigins/data/minecraft/tags/functions/load.json"
+
+[[files]]
+file = "config/openloader/data/mobsorigins/data/moving/functions/impl/clear.mcfunction"
+
+[[files]]
+file = "config/openloader/data/mobsorigins/data/moving/functions/impl/compare_pos.mcfunction"
+
+[[files]]
+file = "config/openloader/data/mobsorigins/data/moving/functions/impl/compare_pos/determine_scale.mcfunction"
+
+[[files]]
+file = "config/openloader/data/mobsorigins/data/moving/functions/impl/remove_tags.mcfunction"
+
+[[files]]
+file = "config/openloader/data/mobsorigins/data/moving/functions/impl/scale/by_10/x.mcfunction"
+
+[[files]]
+file = "config/openloader/data/mobsorigins/data/moving/functions/impl/scale/by_10/y.mcfunction"
+
+[[files]]
+file = "config/openloader/data/mobsorigins/data/moving/functions/impl/scale/by_10/z.mcfunction"
+
+[[files]]
+file = "config/openloader/data/mobsorigins/data/moving/functions/impl/scale/by_100/x.mcfunction"
+
+[[files]]
+file = "config/openloader/data/mobsorigins/data/moving/functions/impl/scale/by_100/y.mcfunction"
+
+[[files]]
+file = "config/openloader/data/mobsorigins/data/moving/functions/impl/scale/by_100/z.mcfunction"
+
+[[files]]
+file = "config/openloader/data/mobsorigins/data/moving/functions/load.mcfunction"
+
+[[files]]
+file = "config/openloader/data/mobsorigins/data/moving/functions/state/horizontally.mcfunction"
+
+[[files]]
+file = "config/openloader/data/mobsorigins/data/moving/functions/state/vertically.mcfunction"
+
+[[files]]
+file = "config/openloader/data/mobsorigins/data/moving/powers/state.json"
+
+[[files]]
+file = "config/openloader/data/mobsorigins/data/origins/origin_layers/origin.json"
+
+[[files]]
+file = "config/openloader/data/mobsorigins/data/phantom/origins/phantom.json"
+
+[[files]]
+file = "config/openloader/data/mobsorigins/data/phantom/powers/burn.json"
+
+[[files]]
+file = "config/openloader/data/mobsorigins/data/phantom/powers/demonic_sight.json"
+
+[[files]]
+file = "config/openloader/data/mobsorigins/data/phantom/powers/fly.json"
+
+[[files]]
+file = "config/openloader/data/mobsorigins/data/phantom/powers/friendlyphantom.json"
+
+[[files]]
+file = "config/openloader/data/mobsorigins/data/phantom/powers/makefriendlyphantom.json"
+
+[[files]]
+file = "config/openloader/data/mobsorigins/data/phantom/powers/see.json"
+
+[[files]]
+file = "config/openloader/data/mobsorigins/data/phantom/powers/weakness.json"
+
+[[files]]
+file = "config/openloader/data/mobsorigins/pack.mcmeta"
+
+[[files]]
+file = "config/openloader/data/poweredup/data/minecraft/tags/functions/tick.json"
+
+[[files]]
+file = "config/openloader/data/poweredup/data/origins/origin_layers/origin.json"
+
+[[files]]
+file = "config/openloader/data/poweredup/data/poweredup/functions/area_effect_fix.mcfunction"
+
+[[files]]
+file = "config/openloader/data/poweredup/data/poweredup/origins/3dl_statue_leaf.json"
+
+[[files]]
+file = "config/openloader/data/poweredup/data/poweredup/origins/3dl_tanooki_leaf.json"
+
+[[files]]
+file = "config/openloader/data/poweredup/data/poweredup/origins/3dl_white_tanooki_leaf.json"
+
+[[files]]
+file = "config/openloader/data/poweredup/data/poweredup/origins/b3_p_wing.json"
+
+[[files]]
+file = "config/openloader/data/poweredup/data/poweredup/origins/b3_super_leaf.json"
+
+[[files]]
+file = "config/openloader/data/poweredup/data/poweredup/origins/b3_tanooki_suit.json"
+
+[[files]]
+file = "config/openloader/data/poweredup/data/poweredup/origins/eazs_leaf_character.json"
+
+[[files]]
+file = "config/openloader/data/poweredup/data/poweredup/origins/nb2_white_super_leaf.json"
+
+[[files]]
+file = "config/openloader/data/poweredup/data/poweredup/powers/b3_flight.json"
+
+[[files]]
+file = "config/openloader/data/poweredup/data/poweredup/powers/b3_flutter.json"
+
+[[files]]
+file = "config/openloader/data/poweredup/data/poweredup/powers/eazs_leaf.json"
+
+[[files]]
+file = "config/openloader/data/poweredup/data/poweredup/powers/nb2_white_leaf.json"
+
+[[files]]
+file = "config/openloader/data/poweredup/data/poweredup/powers/p_boost.json"
+
+[[files]]
+file = "config/openloader/data/poweredup/data/poweredup/powers/p_speed.json"
+
+[[files]]
+file = "config/openloader/data/poweredup/data/poweredup/powers/p_wing.json"
+
+[[files]]
+file = "config/openloader/data/poweredup/data/poweredup/powers/star_power.json"
+
+[[files]]
+file = "config/openloader/data/poweredup/data/poweredup/powers/statue.json"
+
+[[files]]
+file = "config/openloader/data/poweredup/data/poweredup/powers/statue_form.json"
+
+[[files]]
+file = "config/openloader/data/poweredup/data/poweredup/powers/tail_attack.json"
+
+[[files]]
+file = "config/openloader/data/poweredup/pack.mcmeta"
+
+[[files]]
+file = "config/openloader/data/poweredup/pack.png"
+
+[[files]]
+file = "config/openloader/data/snail/README.md"
+
+[[files]]
+file = "config/openloader/data/snail/data/origins/origin_layers/origin.json"
+
+[[files]]
+file = "config/openloader/data/snail/data/snail/origins/snail.json"
+
+[[files]]
+file = "config/openloader/data/snail/data/snail/powers/Block hunger values.txt"
+
+[[files]]
+file = "config/openloader/data/snail/data/snail/powers/ceiling_climb.json"
+
+[[files]]
+file = "config/openloader/data/snail/data/snail/powers/mega_slowpoke.json"
+
+[[files]]
+file = "config/openloader/data/snail/data/snail/powers/no_legs.json"
+
+[[files]]
+file = "config/openloader/data/snail/data/snail/powers/plant_eating.json"
+
+[[files]]
+file = "config/openloader/data/snail/data/snail/powers/poor_vision.json"
+
+[[files]]
+file = "config/openloader/data/snail/data/snail/powers/ride_buff.json"
+
+[[files]]
+file = "config/openloader/data/snail/data/snail/powers/smol.json"
+
+[[files]]
+file = "config/openloader/data/snail/data/snail/powers/solid_shell.json"
+
+[[files]]
+file = "config/openloader/data/snail/data/snail/tags/blocks/1hunger1saturation.json"
+
+[[files]]
+file = "config/openloader/data/snail/data/snail/tags/blocks/2hunger2saturation.json"
+
+[[files]]
+file = "config/openloader/data/snail/data/snail/tags/blocks/3hunger1saturation.json"
+
+[[files]]
+file = "config/openloader/data/snail/data/snail/tags/blocks/3hunger3saturation.json"
+
+[[files]]
+file = "config/openloader/data/snail/data/snail/tags/blocks/4hunger2saturation.json"
+
+[[files]]
+file = "config/openloader/data/snail/data/snail/tags/blocks/5hunger5saturation.json"
+
+[[files]]
+file = "config/openloader/data/snail/data/snail/tags/blocks/6hunger8saturation.json"
+
+[[files]]
+file = "config/openloader/data/snail/data/snail/tags/blocks/7hunger9saturation.json"
+
+[[files]]
+file = "config/openloader/data/snail/data/snail/tags/blocks/9hunger9saturation.json"
+
+[[files]]
+file = "config/openloader/data/snail/data/snail/tags/blocks/crimson.json"
+
+[[files]]
+file = "config/openloader/data/snail/data/snail/tags/blocks/crimson_weak.json"
+
+[[files]]
+file = "config/openloader/data/snail/data/snail/tags/blocks/nylium.json"
+
+[[files]]
+file = "config/openloader/data/snail/data/snail/tags/blocks/warped.json"
+
+[[files]]
+file = "config/openloader/data/snail/data/snail/tags/blocks/warped_weak.json"
+
+[[files]]
+file = "config/openloader/data/snail/pack.mcmeta"
+
+[[files]]
+file = "config/openloader/data/wooly1.1_1.20.1-/data/fluffy/functions/black.mcfunction"
+
+[[files]]
+file = "config/openloader/data/wooly1.1_1.20.1-/data/fluffy/functions/blue.mcfunction"
+
+[[files]]
+file = "config/openloader/data/wooly1.1_1.20.1-/data/fluffy/functions/brown.mcfunction"
+
+[[files]]
+file = "config/openloader/data/wooly1.1_1.20.1-/data/fluffy/functions/cyan.mcfunction"
+
+[[files]]
+file = "config/openloader/data/wooly1.1_1.20.1-/data/fluffy/functions/green.mcfunction"
+
+[[files]]
+file = "config/openloader/data/wooly1.1_1.20.1-/data/fluffy/functions/grey.mcfunction"
+
+[[files]]
+file = "config/openloader/data/wooly1.1_1.20.1-/data/fluffy/functions/light_blue.mcfunction"
+
+[[files]]
+file = "config/openloader/data/wooly1.1_1.20.1-/data/fluffy/functions/light_grey.mcfunction"
+
+[[files]]
+file = "config/openloader/data/wooly1.1_1.20.1-/data/fluffy/functions/lime.mcfunction"
+
+[[files]]
+file = "config/openloader/data/wooly1.1_1.20.1-/data/fluffy/functions/magenta.mcfunction"
+
+[[files]]
+file = "config/openloader/data/wooly1.1_1.20.1-/data/fluffy/functions/orange.mcfunction"
+
+[[files]]
+file = "config/openloader/data/wooly1.1_1.20.1-/data/fluffy/functions/pink.mcfunction"
+
+[[files]]
+file = "config/openloader/data/wooly1.1_1.20.1-/data/fluffy/functions/purple.mcfunction"
+
+[[files]]
+file = "config/openloader/data/wooly1.1_1.20.1-/data/fluffy/functions/red.mcfunction"
+
+[[files]]
+file = "config/openloader/data/wooly1.1_1.20.1-/data/fluffy/functions/white.mcfunction"
+
+[[files]]
+file = "config/openloader/data/wooly1.1_1.20.1-/data/fluffy/functions/yellow.mcfunction"
+
+[[files]]
+file = "config/openloader/data/wooly1.1_1.20.1-/data/fluffy/origins/baaa.json"
+
+[[files]]
+file = "config/openloader/data/wooly1.1_1.20.1-/data/fluffy/powers/beingsheared.json"
+
+[[files]]
+file = "config/openloader/data/wooly1.1_1.20.1-/data/fluffy/powers/color_set.json"
+
+[[files]]
+file = "config/openloader/data/wooly1.1_1.20.1-/data/fluffy/powers/current_color.json"
+
+[[files]]
+file = "config/openloader/data/wooly1.1_1.20.1-/data/fluffy/powers/currently_fluffy.json"
+
+[[files]]
+file = "config/openloader/data/wooly1.1_1.20.1-/data/fluffy/powers/fern.json"
+
+[[files]]
+file = "config/openloader/data/wooly1.1_1.20.1-/data/fluffy/powers/fluff_down.json"
+
+[[files]]
+file = "config/openloader/data/wooly1.1_1.20.1-/data/fluffy/powers/getshearedeffects.json"
+
+[[files]]
+file = "config/openloader/data/wooly1.1_1.20.1-/data/fluffy/powers/gettinsheared.json"
+
+[[files]]
+file = "config/openloader/data/wooly1.1_1.20.1-/data/fluffy/powers/grass.json"
+
+[[files]]
+file = "config/openloader/data/wooly1.1_1.20.1-/data/fluffy/powers/grassblock.json"
+
+[[files]]
+file = "config/openloader/data/wooly1.1_1.20.1-/data/fluffy/powers/largefern.json"
+
+[[files]]
+file = "config/openloader/data/wooly1.1_1.20.1-/data/fluffy/powers/rainbowgapple.json"
+
+[[files]]
+file = "config/openloader/data/wooly1.1_1.20.1-/data/fluffy/powers/rainbowgodapple.json"
+
+[[files]]
+file = "config/openloader/data/wooly1.1_1.20.1-/data/fluffy/powers/soft_landing.json"
+
+[[files]]
+file = "config/openloader/data/wooly1.1_1.20.1-/data/fluffy/powers/stuffduringshear.json"
+
+[[files]]
+file = "config/openloader/data/wooly1.1_1.20.1-/data/fluffy/powers/tallgrass.json"
+
+[[files]]
+file = "config/openloader/data/wooly1.1_1.20.1-/data/fluffy/powers/vegetarianism.json"
+
+[[files]]
+file = "config/openloader/data/wooly1.1_1.20.1-/data/fluffy/tags/items/dyes.json"
+
+[[files]]
+file = "config/openloader/data/wooly1.1_1.20.1-/data/origins/origin_layers/origin.json"
+
+[[files]]
+file = "config/openloader/data/wooly1.1_1.20.1-/pack.mcmeta"
+
+[[files]]
+file = "config/openloader/data/wooly1.1_1.20.1-/pack.png"
+
+[[files]]
+file = "config/vowels-packwiz.json"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCecaeliaAvatar/Cecaelia.bbmodel"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCecaeliaAvatar/LICENSE"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCecaeliaAvatar/README.md"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCecaeliaAvatar/avatar.json"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCecaeliaAvatar/avatar.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCecaeliaAvatar/lib/GSAnimBlend.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCecaeliaAvatar/lib/GSCarrier.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCecaeliaAvatar/lib/GroundCheck.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCecaeliaAvatar/lib/ItemCheck.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCecaeliaAvatar/lib/KattArmor.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCecaeliaAvatar/lib/LerpAPI.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCecaeliaAvatar/lib/MembraneAPI.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCecaeliaAvatar/lib/Molang.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCecaeliaAvatar/lib/OriginsAPI.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCecaeliaAvatar/lib/PartsAPI.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCecaeliaAvatar/lib/SquAPI.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCecaeliaAvatar/lib/SquAssets.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCecaeliaAvatar/scripts/ActionWheel.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCecaeliaAvatar/scripts/Anims.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCecaeliaAvatar/scripts/Armor.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCecaeliaAvatar/scripts/CameraControl.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCecaeliaAvatar/scripts/ColorProperties.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCecaeliaAvatar/scripts/DamageSound.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCecaeliaAvatar/scripts/GlowingEyes.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCecaeliaAvatar/scripts/GlowingTail.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCecaeliaAvatar/scripts/Ink.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCecaeliaAvatar/scripts/KattDynamicCrosshair.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCecaeliaAvatar/scripts/Membrane.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCecaeliaAvatar/scripts/MermodTailCompatibility.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCecaeliaAvatar/scripts/Player.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCecaeliaAvatar/scripts/Posing.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCecaeliaAvatar/scripts/RemoveFootsteps.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCecaeliaAvatar/scripts/SquishyAnims.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCecaeliaAvatar/scripts/SyncedVariables.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCecaeliaAvatar/scripts/Tail.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCecaeliaAvatar/scripts/VanillaModel.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCecaeliaAvatar/scripts/WhirlpoolEffect.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCecaeliaAvatar/textures/armor/chainmailArmor.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCecaeliaAvatar/textures/armor/diamondArmor.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCecaeliaAvatar/textures/armor/goldenArmor.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCecaeliaAvatar/textures/armor/ironArmor.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCecaeliaAvatar/textures/armor/leatherArmor.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCecaeliaAvatar/textures/armor/leatherOverlay.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCecaeliaAvatar/textures/armor/netheriteArmor.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCecaeliaAvatar/textures/armor/trims/boltTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCecaeliaAvatar/textures/armor/trims/coastTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCecaeliaAvatar/textures/armor/trims/duneTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCecaeliaAvatar/textures/armor/trims/eyeTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCecaeliaAvatar/textures/armor/trims/flowTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCecaeliaAvatar/textures/armor/trims/hostTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCecaeliaAvatar/textures/armor/trims/raiserTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCecaeliaAvatar/textures/armor/trims/ribTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCecaeliaAvatar/textures/armor/trims/sentryTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCecaeliaAvatar/textures/armor/trims/shaperTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCecaeliaAvatar/textures/armor/trims/silenceTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCecaeliaAvatar/textures/armor/trims/snoutTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCecaeliaAvatar/textures/armor/trims/spireTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCecaeliaAvatar/textures/armor/trims/tideTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCecaeliaAvatar/textures/armor/trims/vexTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCecaeliaAvatar/textures/armor/trims/wardTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCecaeliaAvatar/textures/armor/trims/wayfinderTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCecaeliaAvatar/textures/armor/trims/wildTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCecaeliaAvatar/textures/eyes_e.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCecaeliaAvatar/textures/misc/cape.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCecaeliaAvatar/textures/misc/meter.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCecaeliaAvatar/textures/octopus.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCecaeliaAvatar/textures/octopus_e.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCecaeliaAvatar/textures/skin.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCentaurAvatar/Centaur.bbmodel"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCentaurAvatar/LICENSE"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCentaurAvatar/README.md"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCentaurAvatar/avatar.json"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCentaurAvatar/avatar.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCentaurAvatar/lib/GSAnimBlend.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCentaurAvatar/lib/GSCarrier.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCentaurAvatar/lib/GroundCheck.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCentaurAvatar/lib/ItemCheck.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCentaurAvatar/lib/KattArmor.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCentaurAvatar/lib/LerpAPI.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCentaurAvatar/lib/Molang.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCentaurAvatar/lib/OriginsAPI.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCentaurAvatar/lib/PartsAPI.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCentaurAvatar/lib/SquAPI.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCentaurAvatar/lib/SquAssets.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCentaurAvatar/scripts/Accessories.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCentaurAvatar/scripts/ActionWheel.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCentaurAvatar/scripts/Anims.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCentaurAvatar/scripts/Armor.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCentaurAvatar/scripts/CameraControl.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCentaurAvatar/scripts/ColorProperties.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCentaurAvatar/scripts/KattDynamicCrosshair.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCentaurAvatar/scripts/Player.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCentaurAvatar/scripts/Posing.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCentaurAvatar/scripts/ReplaceSounds.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCentaurAvatar/scripts/SquishyAnims.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCentaurAvatar/scripts/SyncedVariables.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCentaurAvatar/scripts/TextureSwap.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCentaurAvatar/scripts/VanillaModel.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCentaurAvatar/scripts/Vehicles.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCentaurAvatar/textures/armor/chainmailArmor.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCentaurAvatar/textures/armor/diamondArmor.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCentaurAvatar/textures/armor/goldenArmor.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCentaurAvatar/textures/armor/ironArmor.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCentaurAvatar/textures/armor/leatherArmor.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCentaurAvatar/textures/armor/leatherOverlay.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCentaurAvatar/textures/armor/netheriteArmor.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCentaurAvatar/textures/armor/trims/boltTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCentaurAvatar/textures/armor/trims/coastTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCentaurAvatar/textures/armor/trims/duneTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCentaurAvatar/textures/armor/trims/eyeTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCentaurAvatar/textures/armor/trims/flowTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCentaurAvatar/textures/armor/trims/hostTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCentaurAvatar/textures/armor/trims/raiserTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCentaurAvatar/textures/armor/trims/ribTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCentaurAvatar/textures/armor/trims/sentryTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCentaurAvatar/textures/armor/trims/shaperTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCentaurAvatar/textures/armor/trims/silenceTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCentaurAvatar/textures/armor/trims/snoutTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCentaurAvatar/textures/armor/trims/spireTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCentaurAvatar/textures/armor/trims/tideTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCentaurAvatar/textures/armor/trims/vexTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCentaurAvatar/textures/armor/trims/wardTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCentaurAvatar/textures/armor/trims/wayfinderTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCentaurAvatar/textures/armor/trims/wildTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCentaurAvatar/textures/armor/turtleHelmet.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCentaurAvatar/textures/horse.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCentaurAvatar/textures/horseLayer.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCentaurAvatar/textures/horse_e.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCentaurAvatar/textures/misc/cape.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCentaurAvatar/textures/skin.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCervitaurAvatar/Cervitaur.bbmodel"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCervitaurAvatar/Config.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCervitaurAvatar/LICENSE"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCervitaurAvatar/README.md"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCervitaurAvatar/avatar.json"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCervitaurAvatar/avatar.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCervitaurAvatar/lib/GSAnimBlend.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCervitaurAvatar/lib/KattArmor.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCervitaurAvatar/lib/KattClass.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCervitaurAvatar/scripts/ActionWheel.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCervitaurAvatar/scripts/Animations.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCervitaurAvatar/scripts/Armor.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCervitaurAvatar/scripts/CameraControl.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCervitaurAvatar/scripts/MermodTailCompatibility.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCervitaurAvatar/scripts/Player.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCervitaurAvatar/scripts/Saddle.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCervitaurAvatar/scripts/Twitching.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCervitaurAvatar/scripts/VanillaModel.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCervitaurAvatar/textures/antlers.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCervitaurAvatar/textures/armor/chainmail.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCervitaurAvatar/textures/armor/diamond.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCervitaurAvatar/textures/armor/elytra.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCervitaurAvatar/textures/armor/golden.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCervitaurAvatar/textures/armor/iron.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCervitaurAvatar/textures/armor/leather.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCervitaurAvatar/textures/armor/leather_overlay.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCervitaurAvatar/textures/armor/netherite.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCervitaurAvatar/textures/armor/saddle.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCervitaurAvatar/textures/armor/turtle.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCervitaurAvatar/textures/ears.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCervitaurAvatar/textures/lowerBody.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCervitaurAvatar/textures/skin.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCharizardTaurAvatar/LICENSE"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCharizardTaurAvatar/README.md"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCharizardTaurAvatar/avatar.json"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCharizardTaurAvatar/avatar.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCharizardTaurAvatar/lib/Average.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCharizardTaurAvatar/lib/GSAnimBlend.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCharizardTaurAvatar/lib/GSCarrier.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCharizardTaurAvatar/lib/GroundCheck.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCharizardTaurAvatar/lib/GroupIndex.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCharizardTaurAvatar/lib/ItemCheck.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCharizardTaurAvatar/lib/KattArmor.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCharizardTaurAvatar/lib/MOARArmsAPI.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCharizardTaurAvatar/lib/OriginsAPI.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCharizardTaurAvatar/lib/SquAPI.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCharizardTaurAvatar/models/CharizardTaur.bbmodel"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCharizardTaurAvatar/models/Pokeball.bbmodel"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCharizardTaurAvatar/scripts/ActionWheel.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCharizardTaurAvatar/scripts/Anims.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCharizardTaurAvatar/scripts/Armor.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCharizardTaurAvatar/scripts/Arms.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCharizardTaurAvatar/scripts/CameraControl.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCharizardTaurAvatar/scripts/ColorProperties.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCharizardTaurAvatar/scripts/FallSound.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCharizardTaurAvatar/scripts/Fire.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCharizardTaurAvatar/scripts/KattDynamicCrosshair.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCharizardTaurAvatar/scripts/OriginPowers.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCharizardTaurAvatar/scripts/Player.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCharizardTaurAvatar/scripts/Pokeball.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCharizardTaurAvatar/scripts/PokemonSounds.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCharizardTaurAvatar/scripts/Posing.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCharizardTaurAvatar/scripts/SquishyAnims.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCharizardTaurAvatar/scripts/SyncedVariables.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCharizardTaurAvatar/scripts/VanillaModel.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCharizardTaurAvatar/scripts/Vehicles.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCharizardTaurAvatar/textures/armor/chainmailArmor.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCharizardTaurAvatar/textures/armor/diamondArmor.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCharizardTaurAvatar/textures/armor/goldenArmor.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCharizardTaurAvatar/textures/armor/ironArmor.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCharizardTaurAvatar/textures/armor/leatherArmor.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCharizardTaurAvatar/textures/armor/leatherOverlay.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCharizardTaurAvatar/textures/armor/netheriteArmor.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCharizardTaurAvatar/textures/armor/trims/boltTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCharizardTaurAvatar/textures/armor/trims/coastTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCharizardTaurAvatar/textures/armor/trims/duneTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCharizardTaurAvatar/textures/armor/trims/eyeTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCharizardTaurAvatar/textures/armor/trims/flowTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCharizardTaurAvatar/textures/armor/trims/hostTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCharizardTaurAvatar/textures/armor/trims/raiserTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCharizardTaurAvatar/textures/armor/trims/ribTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCharizardTaurAvatar/textures/armor/trims/sentryTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCharizardTaurAvatar/textures/armor/trims/shaperTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCharizardTaurAvatar/textures/armor/trims/silenceTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCharizardTaurAvatar/textures/armor/trims/snoutTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCharizardTaurAvatar/textures/armor/trims/spireTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCharizardTaurAvatar/textures/armor/trims/tideTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCharizardTaurAvatar/textures/armor/trims/vexTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCharizardTaurAvatar/textures/armor/trims/wardTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCharizardTaurAvatar/textures/armor/trims/wayfinderTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCharizardTaurAvatar/textures/armor/trims/wildTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCharizardTaurAvatar/textures/armor/turtleHelmet.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCharizardTaurAvatar/textures/armor/turtleHelmet_e.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCharizardTaurAvatar/textures/charizard.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCharizardTaurAvatar/textures/charizard_shiny.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCharizardTaurAvatar/textures/damageFlame.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCharizardTaurAvatar/textures/misc/cape.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCharizardTaurAvatar/textures/misc/pokeballModel.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCharizardTaurAvatar/textures/normalFlame.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraCharizardTaurAvatar/textures/skin.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraEeveelutionTaurAvatars/EeveeTaur.bbmodel"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraEeveelutionTaurAvatars/LICENSE"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraEeveelutionTaurAvatars/README.md"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraEeveelutionTaurAvatars/avatar.json"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraEeveelutionTaurAvatars/avatar.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraEeveelutionTaurAvatars/lib/GSAnimBlend.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraEeveelutionTaurAvatars/lib/GSCarrier.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraEeveelutionTaurAvatars/lib/GroundCheck.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraEeveelutionTaurAvatars/lib/ItemCheck.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraEeveelutionTaurAvatars/lib/KattArmor.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraEeveelutionTaurAvatars/lib/LerpAPI.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraEeveelutionTaurAvatars/lib/Molang.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraEeveelutionTaurAvatars/lib/OriginsAPI.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraEeveelutionTaurAvatars/lib/PartsAPI.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraEeveelutionTaurAvatars/lib/SquAPI.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraEeveelutionTaurAvatars/lib/SquAssets.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraEeveelutionTaurAvatars/scripts/ActionWheel.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraEeveelutionTaurAvatars/scripts/Anims.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraEeveelutionTaurAvatars/scripts/Armor.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraEeveelutionTaurAvatars/scripts/CameraControl.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraEeveelutionTaurAvatars/scripts/ColorProperties.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraEeveelutionTaurAvatars/scripts/DamageSound.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraEeveelutionTaurAvatars/scripts/EeveeGender.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraEeveelutionTaurAvatars/scripts/ElementalStones.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraEeveelutionTaurAvatars/scripts/Glowing.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraEeveelutionTaurAvatars/scripts/GlowingEyes.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraEeveelutionTaurAvatars/scripts/KattDynamicCrosshair.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraEeveelutionTaurAvatars/scripts/Player.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraEeveelutionTaurAvatars/scripts/Pokeball.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraEeveelutionTaurAvatars/scripts/PokemonSounds.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraEeveelutionTaurAvatars/scripts/Posing.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraEeveelutionTaurAvatars/scripts/ReplaceSounds.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraEeveelutionTaurAvatars/scripts/Shiny.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraEeveelutionTaurAvatars/scripts/SquishyAnims.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraEeveelutionTaurAvatars/scripts/SyncedVariables.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraEeveelutionTaurAvatars/scripts/TypeControl.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraEeveelutionTaurAvatars/scripts/TypeOrigins.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraEeveelutionTaurAvatars/scripts/TypePicker.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraEeveelutionTaurAvatars/scripts/VanillaModel.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraEeveelutionTaurAvatars/scripts/Vehicles.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraEeveelutionTaurAvatars/textures/armor/chainmailArmor.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraEeveelutionTaurAvatars/textures/armor/diamondArmor.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraEeveelutionTaurAvatars/textures/armor/goldenArmor.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraEeveelutionTaurAvatars/textures/armor/ironArmor.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraEeveelutionTaurAvatars/textures/armor/leatherArmor.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraEeveelutionTaurAvatars/textures/armor/leatherOverlay.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraEeveelutionTaurAvatars/textures/armor/netheriteArmor.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraEeveelutionTaurAvatars/textures/armor/trims/boltTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraEeveelutionTaurAvatars/textures/armor/trims/coastTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraEeveelutionTaurAvatars/textures/armor/trims/duneTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraEeveelutionTaurAvatars/textures/armor/trims/eyeTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraEeveelutionTaurAvatars/textures/armor/trims/flowTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraEeveelutionTaurAvatars/textures/armor/trims/hostTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraEeveelutionTaurAvatars/textures/armor/trims/raiserTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraEeveelutionTaurAvatars/textures/armor/trims/ribTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraEeveelutionTaurAvatars/textures/armor/trims/sentryTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraEeveelutionTaurAvatars/textures/armor/trims/shaperTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraEeveelutionTaurAvatars/textures/armor/trims/silenceTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraEeveelutionTaurAvatars/textures/armor/trims/snoutTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraEeveelutionTaurAvatars/textures/armor/trims/spireTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraEeveelutionTaurAvatars/textures/armor/trims/tideTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraEeveelutionTaurAvatars/textures/armor/trims/vexTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraEeveelutionTaurAvatars/textures/armor/trims/wardTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraEeveelutionTaurAvatars/textures/armor/trims/wayfinderTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraEeveelutionTaurAvatars/textures/armor/trims/wildTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraEeveelutionTaurAvatars/textures/eevee.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraEeveelutionTaurAvatars/textures/eeveeTail.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraEeveelutionTaurAvatars/textures/eeveeTail_shiny.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraEeveelutionTaurAvatars/textures/eevee_shiny.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraEeveelutionTaurAvatars/textures/espeon.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraEeveelutionTaurAvatars/textures/espeon_e.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraEeveelutionTaurAvatars/textures/espeon_shiny.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraEeveelutionTaurAvatars/textures/espeon_shiny_e.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraEeveelutionTaurAvatars/textures/eyes_e.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraEeveelutionTaurAvatars/textures/flareon.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraEeveelutionTaurAvatars/textures/flareon_shiny.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraEeveelutionTaurAvatars/textures/glaceon.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraEeveelutionTaurAvatars/textures/glaceon_shiny.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraEeveelutionTaurAvatars/textures/jolteon.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraEeveelutionTaurAvatars/textures/jolteon_shiny.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraEeveelutionTaurAvatars/textures/layer.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraEeveelutionTaurAvatars/textures/leafeon.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraEeveelutionTaurAvatars/textures/leafeon_shiny.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraEeveelutionTaurAvatars/textures/misc/cape.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraEeveelutionTaurAvatars/textures/misc/poke_ball.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraEeveelutionTaurAvatars/textures/skin.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraEeveelutionTaurAvatars/textures/sylveon.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraEeveelutionTaurAvatars/textures/sylveon_shiny.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraEeveelutionTaurAvatars/textures/umbreon.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraEeveelutionTaurAvatars/textures/umbreon_e.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraEeveelutionTaurAvatars/textures/umbreon_shiny.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraEeveelutionTaurAvatars/textures/umbreon_shiny_e.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraEeveelutionTaurAvatars/textures/vaporeon.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraEeveelutionTaurAvatars/textures/vaporeon_shiny.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraFurretTaurAvatar/FurretTaur.bbmodel"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraFurretTaurAvatar/LICENSE"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraFurretTaurAvatar/README.md"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraFurretTaurAvatar/avatar.json"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraFurretTaurAvatar/avatar.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraFurretTaurAvatar/lib/GSAnimBlend.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraFurretTaurAvatar/lib/GSCarrier.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraFurretTaurAvatar/lib/GroundCheck.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraFurretTaurAvatar/lib/ItemCheck.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraFurretTaurAvatar/lib/KattArmor.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraFurretTaurAvatar/lib/LerpAPI.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraFurretTaurAvatar/lib/Molang.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraFurretTaurAvatar/lib/OriginsAPI.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraFurretTaurAvatar/lib/PartsAPI.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraFurretTaurAvatar/lib/SquAPI.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraFurretTaurAvatar/lib/SquAssets.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraFurretTaurAvatar/scripts/ActionWheel.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraFurretTaurAvatar/scripts/Anims.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraFurretTaurAvatar/scripts/Armor.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraFurretTaurAvatar/scripts/CameraControl.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraFurretTaurAvatar/scripts/ColorProperties.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraFurretTaurAvatar/scripts/DamageSound.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraFurretTaurAvatar/scripts/KattDynamicCrosshair.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraFurretTaurAvatar/scripts/Player.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraFurretTaurAvatar/scripts/Pokeball.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraFurretTaurAvatar/scripts/PokemonSounds.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraFurretTaurAvatar/scripts/Posing.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraFurretTaurAvatar/scripts/ReplaceSounds.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraFurretTaurAvatar/scripts/Shiny.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraFurretTaurAvatar/scripts/SquishyAnims.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraFurretTaurAvatar/scripts/SyncedVariables.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraFurretTaurAvatar/scripts/VanillaModel.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraFurretTaurAvatar/scripts/Vehicles.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraFurretTaurAvatar/textures/armor/chainmailArmor.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraFurretTaurAvatar/textures/armor/diamondArmor.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraFurretTaurAvatar/textures/armor/goldenArmor.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraFurretTaurAvatar/textures/armor/ironArmor.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraFurretTaurAvatar/textures/armor/leatherArmor.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraFurretTaurAvatar/textures/armor/leatherOverlay.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraFurretTaurAvatar/textures/armor/netheriteArmor.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraFurretTaurAvatar/textures/armor/trims/boltTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraFurretTaurAvatar/textures/armor/trims/coastTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraFurretTaurAvatar/textures/armor/trims/duneTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraFurretTaurAvatar/textures/armor/trims/eyeTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraFurretTaurAvatar/textures/armor/trims/flowTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraFurretTaurAvatar/textures/armor/trims/hostTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraFurretTaurAvatar/textures/armor/trims/raiserTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraFurretTaurAvatar/textures/armor/trims/ribTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraFurretTaurAvatar/textures/armor/trims/sentryTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraFurretTaurAvatar/textures/armor/trims/shaperTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraFurretTaurAvatar/textures/armor/trims/silenceTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraFurretTaurAvatar/textures/armor/trims/snoutTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraFurretTaurAvatar/textures/armor/trims/spireTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraFurretTaurAvatar/textures/armor/trims/tideTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraFurretTaurAvatar/textures/armor/trims/vexTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraFurretTaurAvatar/textures/armor/trims/wardTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraFurretTaurAvatar/textures/armor/trims/wayfinderTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraFurretTaurAvatar/textures/armor/trims/wildTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraFurretTaurAvatar/textures/furret.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraFurretTaurAvatar/textures/furret_shiny.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraFurretTaurAvatar/textures/misc/cape.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraFurretTaurAvatar/textures/misc/poke_ball.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraFurretTaurAvatar/textures/skin.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraGiraffeTaurAvatar/Giraffe.bbmodel"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraGiraffeTaurAvatar/LICENSE"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraGiraffeTaurAvatar/README.md"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraGiraffeTaurAvatar/avatar.json"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraGiraffeTaurAvatar/avatar.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraGiraffeTaurAvatar/lib/GSAnimBlend.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraGiraffeTaurAvatar/lib/GSCarrier.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraGiraffeTaurAvatar/lib/GroundCheck.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraGiraffeTaurAvatar/lib/ItemCheck.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraGiraffeTaurAvatar/lib/KattArmor.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraGiraffeTaurAvatar/lib/LerpAPI.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraGiraffeTaurAvatar/lib/Molang.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraGiraffeTaurAvatar/lib/OriginsAPI.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraGiraffeTaurAvatar/lib/PartsAPI.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraGiraffeTaurAvatar/lib/SquAPI.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraGiraffeTaurAvatar/lib/SquAssets.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraGiraffeTaurAvatar/scripts/ActionWheel.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraGiraffeTaurAvatar/scripts/Anims.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraGiraffeTaurAvatar/scripts/Armor.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraGiraffeTaurAvatar/scripts/CameraControl.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraGiraffeTaurAvatar/scripts/ColorProperties.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraGiraffeTaurAvatar/scripts/KattDynamicCrosshair.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraGiraffeTaurAvatar/scripts/Player.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraGiraffeTaurAvatar/scripts/Posing.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraGiraffeTaurAvatar/scripts/ReplaceSounds.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraGiraffeTaurAvatar/scripts/SquishyAnims.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraGiraffeTaurAvatar/scripts/SyncedVariables.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraGiraffeTaurAvatar/scripts/VanillaModel.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraGiraffeTaurAvatar/scripts/Vehicles.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraGiraffeTaurAvatar/textures/armor/chainmailArmor.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraGiraffeTaurAvatar/textures/armor/diamondArmor.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraGiraffeTaurAvatar/textures/armor/goldenArmor.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraGiraffeTaurAvatar/textures/armor/ironArmor.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraGiraffeTaurAvatar/textures/armor/leatherArmor.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraGiraffeTaurAvatar/textures/armor/leatherOverlay.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraGiraffeTaurAvatar/textures/armor/netheriteArmor.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraGiraffeTaurAvatar/textures/armor/trims/boltTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraGiraffeTaurAvatar/textures/armor/trims/coastTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraGiraffeTaurAvatar/textures/armor/trims/duneTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraGiraffeTaurAvatar/textures/armor/trims/eyeTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraGiraffeTaurAvatar/textures/armor/trims/flowTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraGiraffeTaurAvatar/textures/armor/trims/hostTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraGiraffeTaurAvatar/textures/armor/trims/raiserTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraGiraffeTaurAvatar/textures/armor/trims/ribTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraGiraffeTaurAvatar/textures/armor/trims/sentryTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraGiraffeTaurAvatar/textures/armor/trims/shaperTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraGiraffeTaurAvatar/textures/armor/trims/silenceTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraGiraffeTaurAvatar/textures/armor/trims/snoutTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraGiraffeTaurAvatar/textures/armor/trims/spireTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraGiraffeTaurAvatar/textures/armor/trims/tideTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraGiraffeTaurAvatar/textures/armor/trims/vexTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraGiraffeTaurAvatar/textures/armor/trims/wardTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraGiraffeTaurAvatar/textures/armor/trims/wayfinderTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraGiraffeTaurAvatar/textures/armor/trims/wildTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraGiraffeTaurAvatar/textures/armor/turtleHelmet.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraGiraffeTaurAvatar/textures/giraffe.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraGiraffeTaurAvatar/textures/misc/cape.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraGiraffeTaurAvatar/textures/skin.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraLaprasTaurAvatar/LICENSE"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraLaprasTaurAvatar/README.md"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraLaprasTaurAvatar/avatar.json"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraLaprasTaurAvatar/avatar.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraLaprasTaurAvatar/lib/Average.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraLaprasTaurAvatar/lib/GSAnimBlend.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraLaprasTaurAvatar/lib/GSCarrier.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraLaprasTaurAvatar/lib/GroundCheck.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraLaprasTaurAvatar/lib/GroupIndex.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraLaprasTaurAvatar/lib/ItemCheck.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraLaprasTaurAvatar/lib/KattArmor.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraLaprasTaurAvatar/lib/OriginsAPI.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraLaprasTaurAvatar/lib/SquAPI.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraLaprasTaurAvatar/models/LaprasTaur.bbmodel"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraLaprasTaurAvatar/models/Pokeball.bbmodel"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraLaprasTaurAvatar/scripts/ActionWheel.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraLaprasTaurAvatar/scripts/Anims.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraLaprasTaurAvatar/scripts/Armor.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraLaprasTaurAvatar/scripts/Arms.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraLaprasTaurAvatar/scripts/CameraControl.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraLaprasTaurAvatar/scripts/ColorProperties.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraLaprasTaurAvatar/scripts/FallSound.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraLaprasTaurAvatar/scripts/GlowingEyes.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraLaprasTaurAvatar/scripts/KattDynamicCrosshair.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraLaprasTaurAvatar/scripts/Player.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraLaprasTaurAvatar/scripts/Pokeball.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraLaprasTaurAvatar/scripts/PokemonSounds.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraLaprasTaurAvatar/scripts/Posing.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraLaprasTaurAvatar/scripts/RemoveFootsteps.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraLaprasTaurAvatar/scripts/SquishyAnims.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraLaprasTaurAvatar/scripts/SyncedVariables.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraLaprasTaurAvatar/scripts/VanillaModel.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraLaprasTaurAvatar/scripts/Vehicles.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraLaprasTaurAvatar/scripts/WhirlpoolEffect.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraLaprasTaurAvatar/textures/armor/chainmailArmor.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraLaprasTaurAvatar/textures/armor/diamondArmor.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraLaprasTaurAvatar/textures/armor/goldenArmor.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraLaprasTaurAvatar/textures/armor/ironArmor.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraLaprasTaurAvatar/textures/armor/leatherArmor.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraLaprasTaurAvatar/textures/armor/leatherOverlay.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraLaprasTaurAvatar/textures/armor/netheriteArmor.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraLaprasTaurAvatar/textures/armor/trims/coastTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraLaprasTaurAvatar/textures/armor/trims/duneTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraLaprasTaurAvatar/textures/armor/trims/eyeTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraLaprasTaurAvatar/textures/armor/trims/hostTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraLaprasTaurAvatar/textures/armor/trims/raiserTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraLaprasTaurAvatar/textures/armor/trims/ribTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraLaprasTaurAvatar/textures/armor/trims/sentryTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraLaprasTaurAvatar/textures/armor/trims/shaperTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraLaprasTaurAvatar/textures/armor/trims/silenceTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraLaprasTaurAvatar/textures/armor/trims/snoutTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraLaprasTaurAvatar/textures/armor/trims/spireTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraLaprasTaurAvatar/textures/armor/trims/tideTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraLaprasTaurAvatar/textures/armor/trims/vexTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraLaprasTaurAvatar/textures/armor/trims/wardTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraLaprasTaurAvatar/textures/armor/trims/wayfinderTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraLaprasTaurAvatar/textures/armor/trims/wildTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraLaprasTaurAvatar/textures/armor/turtleHelmet.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraLaprasTaurAvatar/textures/eyes_e.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraLaprasTaurAvatar/textures/lapras.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraLaprasTaurAvatar/textures/lapras_shiny.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraLaprasTaurAvatar/textures/misc/cape.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraLaprasTaurAvatar/textures/misc/chest.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraLaprasTaurAvatar/textures/misc/pokeballModel.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraLaprasTaurAvatar/textures/skin.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraMerlingAvatar/LICENSE"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraMerlingAvatar/Merling.bbmodel"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraMerlingAvatar/README.md"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraMerlingAvatar/avatar.json"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraMerlingAvatar/avatar.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraMerlingAvatar/lib/GSAnimBlend.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraMerlingAvatar/lib/GSCarrier.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraMerlingAvatar/lib/GroundCheck.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraMerlingAvatar/lib/ItemCheck.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraMerlingAvatar/lib/KattArmor.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraMerlingAvatar/lib/LerpAPI.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraMerlingAvatar/lib/Molang.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraMerlingAvatar/lib/OriginsAPI.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraMerlingAvatar/lib/PartsAPI.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraMerlingAvatar/lib/SquAPI.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraMerlingAvatar/lib/SquAssets.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraMerlingAvatar/scripts/ActionWheel.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraMerlingAvatar/scripts/Anims.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraMerlingAvatar/scripts/Armor.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraMerlingAvatar/scripts/CameraControl.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraMerlingAvatar/scripts/ColorProperties.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraMerlingAvatar/scripts/DamageSound.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraMerlingAvatar/scripts/GlowingEyes.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraMerlingAvatar/scripts/GlowingTail.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraMerlingAvatar/scripts/KattDynamicCrosshair.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraMerlingAvatar/scripts/MermodTailCompatibility.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraMerlingAvatar/scripts/Player.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraMerlingAvatar/scripts/Posing.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraMerlingAvatar/scripts/RemoveFootsteps.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraMerlingAvatar/scripts/SquishyAnims.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraMerlingAvatar/scripts/SyncedVariables.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraMerlingAvatar/scripts/Tail.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraMerlingAvatar/scripts/VanillaModel.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraMerlingAvatar/scripts/Vehicles.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraMerlingAvatar/scripts/WhirlpoolEffect.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraMerlingAvatar/textures/armor/chainmailArmor.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraMerlingAvatar/textures/armor/diamondArmor.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraMerlingAvatar/textures/armor/goldenArmor.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraMerlingAvatar/textures/armor/ironArmor.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraMerlingAvatar/textures/armor/leatherArmor.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraMerlingAvatar/textures/armor/leatherOverlay.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraMerlingAvatar/textures/armor/netheriteArmor.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraMerlingAvatar/textures/armor/trims/boltTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraMerlingAvatar/textures/armor/trims/coastTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraMerlingAvatar/textures/armor/trims/duneTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraMerlingAvatar/textures/armor/trims/eyeTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraMerlingAvatar/textures/armor/trims/flowTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraMerlingAvatar/textures/armor/trims/hostTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraMerlingAvatar/textures/armor/trims/raiserTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraMerlingAvatar/textures/armor/trims/ribTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraMerlingAvatar/textures/armor/trims/sentryTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraMerlingAvatar/textures/armor/trims/shaperTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraMerlingAvatar/textures/armor/trims/silenceTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraMerlingAvatar/textures/armor/trims/snoutTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraMerlingAvatar/textures/armor/trims/spireTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraMerlingAvatar/textures/armor/trims/tideTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraMerlingAvatar/textures/armor/trims/vexTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraMerlingAvatar/textures/armor/trims/wardTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraMerlingAvatar/textures/armor/trims/wayfinderTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraMerlingAvatar/textures/armor/trims/wildTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraMerlingAvatar/textures/eyes_e.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraMerlingAvatar/textures/misc/cape.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraMerlingAvatar/textures/skin.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraMerlingAvatar/textures/tail.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraMerlingAvatar/textures/tail_e.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraSerperiorTaurAvatar/LICENSE"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraSerperiorTaurAvatar/README.md"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraSerperiorTaurAvatar/avatar.json"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraSerperiorTaurAvatar/avatar.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraSerperiorTaurAvatar/lib/Average.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraSerperiorTaurAvatar/lib/GSAnimBlend.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraSerperiorTaurAvatar/lib/GSCarrier.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraSerperiorTaurAvatar/lib/GroundCheck.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraSerperiorTaurAvatar/lib/GroupIndex.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraSerperiorTaurAvatar/lib/ItemCheck.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraSerperiorTaurAvatar/lib/KattArmor.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraSerperiorTaurAvatar/lib/OriginsAPI.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraSerperiorTaurAvatar/lib/SquAPI.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraSerperiorTaurAvatar/models/Pokeball.bbmodel"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraSerperiorTaurAvatar/models/SerperiorTaur.bbmodel"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraSerperiorTaurAvatar/scripts/ActionWheel.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraSerperiorTaurAvatar/scripts/Anims.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraSerperiorTaurAvatar/scripts/Armor.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraSerperiorTaurAvatar/scripts/Arms.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraSerperiorTaurAvatar/scripts/CameraControl.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraSerperiorTaurAvatar/scripts/ColorProperties.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraSerperiorTaurAvatar/scripts/FallSound.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraSerperiorTaurAvatar/scripts/KattDynamicCrosshair.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraSerperiorTaurAvatar/scripts/OriginPowers.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraSerperiorTaurAvatar/scripts/Player.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraSerperiorTaurAvatar/scripts/Pokeball.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraSerperiorTaurAvatar/scripts/PokemonSounds.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraSerperiorTaurAvatar/scripts/Posing.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraSerperiorTaurAvatar/scripts/RemoveFootsteps.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraSerperiorTaurAvatar/scripts/SquishyAnims.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraSerperiorTaurAvatar/scripts/SyncedVariables.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraSerperiorTaurAvatar/scripts/VanillaModel.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraSerperiorTaurAvatar/textures/armor/chainmailArmor.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraSerperiorTaurAvatar/textures/armor/diamondArmor.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraSerperiorTaurAvatar/textures/armor/goldenArmor.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraSerperiorTaurAvatar/textures/armor/ironArmor.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraSerperiorTaurAvatar/textures/armor/leatherArmor.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraSerperiorTaurAvatar/textures/armor/leatherOverlay.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraSerperiorTaurAvatar/textures/armor/netheriteArmor.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraSerperiorTaurAvatar/textures/armor/trims/coastTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraSerperiorTaurAvatar/textures/armor/trims/duneTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraSerperiorTaurAvatar/textures/armor/trims/eyeTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraSerperiorTaurAvatar/textures/armor/trims/hostTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraSerperiorTaurAvatar/textures/armor/trims/raiserTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraSerperiorTaurAvatar/textures/armor/trims/ribTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraSerperiorTaurAvatar/textures/armor/trims/sentryTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraSerperiorTaurAvatar/textures/armor/trims/shaperTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraSerperiorTaurAvatar/textures/armor/trims/silenceTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraSerperiorTaurAvatar/textures/armor/trims/snoutTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraSerperiorTaurAvatar/textures/armor/trims/spireTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraSerperiorTaurAvatar/textures/armor/trims/tideTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraSerperiorTaurAvatar/textures/armor/trims/vexTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraSerperiorTaurAvatar/textures/armor/trims/wardTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraSerperiorTaurAvatar/textures/armor/trims/wayfinderTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraSerperiorTaurAvatar/textures/armor/trims/wildTrim.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraSerperiorTaurAvatar/textures/armor/turtleHelmet.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraSerperiorTaurAvatar/textures/misc/cape.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraSerperiorTaurAvatar/textures/misc/pokeballModel.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraSerperiorTaurAvatar/textures/serperior.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraSerperiorTaurAvatar/textures/serperior_shiny.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraSerperiorTaurAvatar/textures/skin.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraSlimeTaurAvatar/LICENSE"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraSlimeTaurAvatar/README.md"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraSlimeTaurAvatar/SlimeTaur.bbmodel"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraSlimeTaurAvatar/avatar.json"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraSlimeTaurAvatar/avatar.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraSlimeTaurAvatar/lib/CMWobble.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraSlimeTaurAvatar/lib/GSAnimBlend.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraSlimeTaurAvatar/lib/GSCarrier.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraSlimeTaurAvatar/lib/GroundCheck.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraSlimeTaurAvatar/lib/ItemCheck.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraSlimeTaurAvatar/lib/LerpAPI.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraSlimeTaurAvatar/lib/Molang.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraSlimeTaurAvatar/lib/OriginsAPI.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraSlimeTaurAvatar/lib/PartsAPI.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraSlimeTaurAvatar/lib/PehkuiScale.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraSlimeTaurAvatar/lib/SquAPI.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraSlimeTaurAvatar/lib/SquAssets.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraSlimeTaurAvatar/scripts/ActionWheel.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraSlimeTaurAvatar/scripts/Anims.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraSlimeTaurAvatar/scripts/Armor.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraSlimeTaurAvatar/scripts/CameraControl.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraSlimeTaurAvatar/scripts/ColorProperties.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraSlimeTaurAvatar/scripts/DamageSound.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraSlimeTaurAvatar/scripts/Items.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraSlimeTaurAvatar/scripts/KattDynamicCrosshair.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraSlimeTaurAvatar/scripts/Player.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraSlimeTaurAvatar/scripts/Posing.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraSlimeTaurAvatar/scripts/RemoveFootsteps.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraSlimeTaurAvatar/scripts/SquishSound.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraSlimeTaurAvatar/scripts/SquishyAnims.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraSlimeTaurAvatar/scripts/SyncedVariables.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraSlimeTaurAvatar/scripts/Trail.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraSlimeTaurAvatar/scripts/VanillaModel.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraSlimeTaurAvatar/scripts/Vehicles.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraSlimeTaurAvatar/scripts/Wobble.lua"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraSlimeTaurAvatar/textures/misc/cape.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraSlimeTaurAvatar/textures/skin.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraSlimeTaurAvatar/textures/slime.png"
+
+[[files]]
+file = "figura/avatars/Templates/TotalTakeover/FiguraSlimeTaurAvatar/textures/slimeOverlay.png"
+
+[[files]]
+file = "figura/avatars/Templates/invalid_os/snail/avatar.json"
+
+[[files]]
+file = "figura/avatars/Templates/invalid_os/snail/lib/GSAnimBlend.lua"
+
+[[files]]
+file = "figura/avatars/Templates/invalid_os/snail/lib/OriginsAPI.lua"
+
+[[files]]
+file = "figura/avatars/Templates/invalid_os/snail/lib/SquAPI.lua"
+
+[[files]]
+file = "figura/avatars/Templates/invalid_os/snail/scripts/ActionWheel.lua"
+
+[[files]]
+file = "figura/avatars/Templates/invalid_os/snail/scripts/Animations.lua"
+
+[[files]]
+file = "figura/avatars/Templates/invalid_os/snail/scripts/CameraControl.lua"
+
+[[files]]
+file = "figura/avatars/Templates/invalid_os/snail/scripts/KattDynamicCrosshair.lua"
+
+[[files]]
+file = "figura/avatars/Templates/invalid_os/snail/scripts/Player.lua"
+
+[[files]]
+file = "figura/avatars/Templates/invalid_os/snail/scripts/Posing.lua"
+
+[[files]]
+file = "figura/avatars/Templates/invalid_os/snail/scripts/SquishyAnims.lua"
+
+[[files]]
+file = "figura/avatars/Templates/invalid_os/snail/scripts/VanillaModel.lua"
+
+[[files]]
+file = "figura/avatars/Templates/invalid_os/snail/snailtaur.bbmodel"
+
+[[files]]
+file = "icon.png"
+
+[[files]]
+file = "kubejs/assets/figura/emojis/eazs.json"
+
+[[files]]
+file = "kubejs/assets/figura/font/emoji_eazs.json"
+
+[[files]]
+file = "kubejs/assets/figura/textures/font/emojis/eazs.png"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/powdered_coal.png"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/powdered_zinc.png"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/wood_chips.png"
+
+[[files]]
+file = "kubejs/assets/vowels/textures/item/powdered_copper.png"
+
+[[files]]
+file = "kubejs/assets/vowels/textures/item/powdered_gold.png"
+
+[[files]]
+file = "kubejs/assets/vowels/textures/item/powdered_iron.png"
+
+[[files]]
+file = "kubejs/data/kubejs/damage_type/blender.json"
+
+[[files]]
+file = "kubejs/data/kubejs/damage_type/heart_attack.json"
+
+[[files]]
+file = "kubejs/data/kubejs/damage_type/rotated.json"
+
+[[files]]
+file = "kubejs/data/kubejs/damage_type/stub_toe.json"
+
+[[files]]
+file = "kubejs/data/kubejs/global_powers/hallways.json"
+
+[[files]]
+file = "kubejs/data/kubejs/origins/statue.json"
+
+[[files]]
+file = "kubejs/data/kubejs/powers/no_mouse_in_hallways.json"
+
+[[files]]
+file = "kubejs/data/kubejs/powers/statue_immobile.json"
+
+[[files]]
+file = "kubejs/data/kubejs/powers/statue_solid.json"
+
+[[files]]
+file = "kubejs/data/kubejs/powers/statue_stone.json"
+
+[[files]]
+file = "kubejs/data/minecraft/loot_tables/blocks/bedrock.json"
+
+[[files]]
+file = "kubejs/data/origins/origin_layers/origin.json"
+
+[[files]]
+file = "kubejs/server_scripts/advancements.js"
+
+[[files]]
+file = "kubejs/server_scripts/misc_recipes.js"
+
+[[files]]
+file = "kubejs/server_scripts/slabs.js"
+
+[[files]]
+file = "kubejs/server_scripts/uncrafting.js"
+
+[[files]]
+file = "kubejs/startup_scripts/items.js"
+
+[[files]]
+file = "mods/advancement-plaques.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/advancementjs.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/ae2-emi-crafting.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/ae2.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/almanac.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/altorigingui.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/amendments.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/another-furniture.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/apugli.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/aquamirae.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/aquatic-torches.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/armorpoints.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/arsenal.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/artifacts.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/arwa-1.0.0.jar"
+
+[[files]]
+file = "mods/athena-ctm.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/audioplayer.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/auth-me.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/axiom.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/banner-bedsheets.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/barbeques-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/basicweapons.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/better-ping-display-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/better-stats.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/better-third-person.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/betterf3.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/biomes-o-plenty.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/blahaj-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/bookshelf-lib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/bosses-of-mass-destruction.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/botany-pots.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/botany-trees.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/cardinal-components-api.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/carpet-extra.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/carpet.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/carry-on.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/cb-compressed-blocks.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/cc-tweaked.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/cccbridge.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/charm-of-undying.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/cherished-worlds.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/chipped-x-create-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/chipped.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/cicada.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/construction-wand-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/continue.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/copycats.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/cosmetic-armor.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/crash-pipe.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/craterlib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/crawl.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-contraption-terminals.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-deco.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-power-loader-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-railways-navigator.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-steam-n-rails.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-trims.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/createaddition.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/creativecore.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/critters-and-companions.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/damagenumbers.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/deathlog.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/decorative-blocks.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/dimensionaldoors.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/distraction-free-recipes.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/do-a-barrel-roll.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/dungeon-now-loading.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/dungeons+-more-spawners.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/dungeons+-towers.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/e4mc.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/eating-animation.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/eggolib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/elytra-slot.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/emi-create-schematics.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/emi-loot.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/enchantment-descriptions.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/ensculked-0.1.4-eazs+1.20.1.jar"
+
+[[files]]
+file = "mods/entity-model-features.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/exposure.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/extra-trinkets.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/fabric-seasons-delight-compat.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/fabric-seasons.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/fallingleaves.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight-refabricated.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/farmers-respite-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/figura-goofyplugin.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/figura.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/first-person-model.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/fish-tanks.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/friendly-phantoms.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/ftb-quests-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/ftb-teams-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/ftb-xmod-compat.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/fzzy-config.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/glitchcore.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/gobber-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/gravity-api-fork.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/guard-villagers-(fabricquilt).pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/higher-chat.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/iceberg.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/immersive-aircraft.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/immersive-paintings.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/immersiveportals.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/invview.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/item-filters.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/just-potion-rings.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-create-for-fabric-1-20-1.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/kubejs.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/limitless-banners.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/lithostitched.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/lmd.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/lodestone-update-backport.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/log-begone.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/lootr.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/luckperms.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/make_bubbles_pop.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/man-of-many-planes.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/mc-dungeons-enchanting.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/mcda.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/mcdar.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/mcdw.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/medieval-deco.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/memoryleakfix.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/miniscaled.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/mmmmmmmmmmmm.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/modelfix.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/morechathistory.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/moreculling.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/natures-compass.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/neruina.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-animations.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/numismatics.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/oakspaintings.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/obscure-api.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/open-loader.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/origins-classes.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/origins-extra-keybinds-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/origins-plus-plus.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/origins.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/paragraphs.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/pehkui.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/polymorph.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/polymorphic-toms-simple-storag.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/pooltoy-origin-0.3.1.jar"
+
+[[files]]
+file = "mods/probejs.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/ratatouille.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/realms-button-remover.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/rechiseled-create.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/rechiseled.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/rei.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/screenshot-viewer.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/sdlink.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/server-hats.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/ships.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/shulker-box-slot.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/simpletextoverlay.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/spawn-balance-utility.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/starter-kit.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries-squared.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/switchy-inventories.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/switchy-teleport.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/switchy.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tcdcommons.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tectonic.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/toms-storage.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tree-harvester.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tt20.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/txnilib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/universal-perms.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/vanilla-permissions.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/vanish.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/vowels-1.0.0+1.20.1.jar"
+
+[[files]]
+file = "mods/water-balloon.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/waterframes.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/watermedia.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/xxl-packets.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yigd.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-dungeons.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-jungle-temples.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-mineshafts.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-ocean-monuments.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-strongholds.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-witch-huts.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-bridges.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/zombify.pw.toml"
+metafile = true
+
+[[files]]
+file = "unsup.toml"

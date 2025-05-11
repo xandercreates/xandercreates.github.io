@@ -1,0 +1,17 @@
+mods-real/
+.git/
+.github/
+Dockerfile
+.fslckout
+prism/
+result
+flake.nix
+flake.lock
+root
+*@
+S-*.vim
+/item
+slab.json
+*.log
+kubejs/tsconfig.json
+kubejs/node_modules/
