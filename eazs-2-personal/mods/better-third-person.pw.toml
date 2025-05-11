@@ -11,6 +11,11 @@ hash-format = 'sha512'
 mode = 'url'
 url = 'https://cdn.modrinth.com/data/G1s2WpNo/versions/1yJzEpzh/BetterThirdPerson-Fabric-1.20-1.9.0.jar'
 
+[update]
 [update.modrinth]
 mod-id = 'G1s2WpNo'
 version = '1yJzEpzh'
+
+[option]
+optional = true
+default = true
